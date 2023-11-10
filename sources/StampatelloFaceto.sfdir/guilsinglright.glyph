@@ -1,0 +1,24 @@
+StartChar: guilsinglright
+Encoding: 8250 8250 1078
+Width: 396
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+238 267 m 1
+ 207 289 198 297 122 380 c 0
+ 70 438 41 469 41 478 c 0
+ 41 502 66 537 92 537 c 0
+ 110 537 130 530 144 508 c 0
+ 167 476 203 433 261 375 c 0
+ 322 314 355 281 355 272 c 0
+ 355 214 241 154 189 98 c 0
+ 130 35 117 15 99 15 c 0
+ 72 15 61 28 61 53 c 0
+ 61 114 111 134 151 179 c 0
+ 182 213 224 245 238 267 c 1
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 1-1" guilsinglright.case
+EndChar

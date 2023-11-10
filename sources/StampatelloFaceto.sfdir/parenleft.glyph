@@ -1,0 +1,26 @@
+StartChar: parenleft
+Encoding: 40 40 11
+Width: 396
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+80 586 m 0
+ 111 679 214 826 324 826 c 0
+ 338 826 348 820 348 792 c 0
+ 348 760 344 756 320 748 c 0
+ 273 733 208 660 186 616 c 0
+ 146 547 114 400 114 324 c 0
+ 114 228 147 35 192 -54 c 0
+ 211 -100 251 -182 310 -182 c 0
+ 322 -182 328 -180 340 -180 c 0
+ 352 -180 362 -192 362 -208 c 0
+ 362 -240 322 -270 308 -270 c 0
+ 153 -270 80 -13 62 108 c 0
+ 52 180 38 228 38 304 c 0
+ 38 407 47 486 80 586 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 1-1" parenleft.case
+EndChar

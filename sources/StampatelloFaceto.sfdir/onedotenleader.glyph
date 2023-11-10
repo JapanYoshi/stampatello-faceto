@@ -1,0 +1,21 @@
+StartChar: onedotenleader
+Encoding: 8228 8228 1072
+Width: 236
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+82 138 m 0
+ 88 144 98 146 112 146 c 0
+ 128 146 138 140 142 136 c 0
+ 156 118 164 96 170 84 c 0
+ 176 74 182 66 182 54 c 0
+ 182 42 176 26 166 14 c 0
+ 154 2 140 -4 128 -4 c 0
+ 108 -4 96 4 84 26 c 0
+ 72 48 64 62 64 82 c 0
+ 64 104 72 128 82 138 c 0
+EndSplineSet
+Validated: 1
+EndChar

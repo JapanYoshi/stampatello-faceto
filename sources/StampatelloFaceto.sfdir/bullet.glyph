@@ -1,0 +1,19 @@
+StartChar: bullet
+Encoding: 8226 8226 1070
+Width: 416
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+86 420 m 0
+ 96 434 128 446 164 446 c 0
+ 236 446 284 430 310 410 c 0
+ 358 372 396 324 396 260 c 0
+ 396 202 354 150 270 104 c 0
+ 240 86 208 78 176 78 c 0
+ 59 78 30 182 30 282 c 0
+ 30 328 59 385 86 420 c 0
+EndSplineSet
+Validated: 1
+EndChar

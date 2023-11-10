@@ -1,7 +1,4 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - StampatelloFaceto.sfdir
 axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+familyName: Stampatello Faceto
