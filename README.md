@@ -14,8 +14,6 @@
 
 Stampatello Faceto is an insanely multilingual handwriting font that supports a wide array of Latin, Greek, and Cyrillic characters.
 
-**KNOWN ISSUE:** Likely due to something breaking in Fontforge, adding kerning somehow breaks the entire font on Windows, so the font is unkerned. I need help to resolve this issue.
-
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
 
