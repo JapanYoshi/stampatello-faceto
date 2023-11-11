@@ -1,21 +1,23 @@
 StartChar: period
-Encoding: 46 46 17
+Encoding: 17 46 17
+GlifName: period
 Width: 236
-GlyphClass: 1
+VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-82 138 m 0
- 88 144 98 146 112 146 c 0
- 128 146 138 140 142 136 c 0
- 156 118 164 96 170 84 c 0
- 176 74 182 66 182 54 c 0
- 182 42 176 26 166 14 c 0
- 154 2 140 -4 128 -4 c 0
- 108 -4 96 4 84 26 c 0
- 72 48 64 62 64 82 c 0
- 64 104 72 128 82 138 c 0
+82 138 m 256
+ 88 144 98 146 112 146 c 256
+ 128 146 138 140 142 136 c 256
+ 156 118 164 96 170 84 c 256
+ 176 74 182 66 182 54 c 256
+ 182 42 176 26 166 14 c 256
+ 154 2 140 -4 128 -4 c 256
+ 108 -4 96 4 84 26 c 256
+ 72 48 64 62 64 82 c 256
+ 64 104 72 128 82 138 c 256
 EndSplineSet
 Validated: 1
+Kerns2: 12 -109 "kernlookup0 subtable" 34 -118 "kernlookup0 subtable" 38 -31 "kernlookup0 subtable" 39 -65 "kernlookup0 subtable" 40 -37 "kernlookup0 subtable" 41 -32 "kernlookup0 subtable" 42 -29 "kernlookup0 subtable" 45 -33 "kernlookup0 subtable" 46 -21 "kernlookup0 subtable" 50 -80 "kernlookup0 subtable" 51 -45 "kernlookup0 subtable" 52 -114 "kernlookup0 subtable" 55 -168 "kernlookup0 subtable" 56 -54 "kernlookup0 subtable" 57 -144 "kernlookup0 subtable" 58 -117 "kernlookup0 subtable" 59 -59 "kernlookup0 subtable" 60 -160 "kernlookup0 subtable" 64 -120 "kernlookup0 subtable" 73 -74 "kernlookup0 subtable" 74 -40 "kernlookup0 subtable" 87 -133 "kernlookup0 subtable" 89 -79 "kernlookup0 subtable" 91 -23 "kernlookup0 subtable" 96 -103 "kernlookup0 subtable"
 EndChar

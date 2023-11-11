@@ -1,49 +1,51 @@
 StartChar: Y
-Encoding: 89 89 60
+Encoding: 60 89 60
+GlifName: Y_
 Width: 660
-GlyphClass: 1
+VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-490 800 m 0
- 514 854 520 880 554 914 c 0
- 578 938 600 950 620 950 c 0
- 642 948 654 940 654 928 c 0
- 654 916 646 902 632 888 c 0
- 620 874 604 854 590 830 c 0
- 554 768 554 746 526 678 c 0
- 516 654 510 630 484 574 c 0
- 474 548 464 524 456 496 c 0
- 452 480 450 460 444 442 c 0
- 438 424 432 408 428 392 c 0
- 424 376 422 352 418 322 c 0
- 412 266 400 188 400 118 c 0
- 400 80 406 54 416 44 c 0
- 426 34 432 24 432 14 c 0
- 432 -8 393 -38 372 -38 c 0
- 362 -38 356 -36 350 -30 c 0
- 344 -24 340 -12 332 4 c 0
- 322 28 316 56 316 88 c 0
- 316 106 318 150 324 220 c 0
- 328 264 330 296 330 316 c 0
- 330 344 334 354 338 380 c 1
- 331 378 325 378 319 378 c 0
- 298 378 282 389 266 406 c 0
- 232 446 222 470 192 510 c 0
- 162 548 152 582 128 626 c 0
- 122 636 114 662 90 708 c 0
- 52 782 18 816 18 864 c 0
- 18 890 32 902 62 902 c 0
- 82 902 88 898 90 890 c 0
- 92 884 96 878 106 862 c 0
- 114 852 134 818 144 792 c 0
- 154 768 184 720 202 684 c 0
- 234 624 236 624 276 550 c 0
- 288 528 304 510 320 496 c 0
- 336 480 352 460 354 450 c 1
- 372 508 390 550 414 608 c 0
- 440 670 468 752 490 800 c 0
+490 800 m 256
+ 514 854 520 880 554 914 c 256
+ 578 938 600 950 620 950 c 256
+ 642 948 654 940 654 928 c 256
+ 654 916 646 902 632 888 c 256
+ 620 874 604 854 590 830 c 256
+ 554 768 554 746 526 678 c 256
+ 516 654 510 630 484 574 c 256
+ 474 548 464 524 456 496 c 256
+ 452 480 450 460 444 442 c 256
+ 438 424 432 408 428 392 c 256
+ 424 376 422 352 418 322 c 256
+ 412 266 400 188 400 118 c 256
+ 400 80 406 54 416 44 c 256
+ 426 34 432 24 432 14 c 256
+ 432 -8 393 -38 372 -38 c 256
+ 362 -38 356 -36 350 -30 c 256
+ 344 -24 340 -12 332 4 c 256
+ 322 28 316 56 316 88 c 256
+ 316 106 318 150 324 220 c 256
+ 328 264 330 296 330 316 c 256
+ 330 344 334 354 338 380 c 257
+ 331 378 325 378 319 378 c 256
+ 298 378 282 389 266 406 c 256
+ 232 446 222 470 192 510 c 256
+ 162 548 152 582 128 626 c 256
+ 122 636 114 662 90 708 c 256
+ 52 782 18 816 18 864 c 256
+ 18 890 32 902 62 902 c 256
+ 82 902 88 898 90 890 c 256
+ 92 884 96 878 106 862 c 256
+ 114 852 134 818 144 792 c 256
+ 154 768 184 720 202 684 c 256
+ 234 624 236 624 276 550 c 256
+ 288 528 304 510 320 496 c 256
+ 336 480 352 460 354 450 c 257
+ 372 508 390 550 414 608 c 256
+ 440 670 468 752 490 800 c 256
 EndSplineSet
 Validated: 1
+Kerns2: 12 -20 "kernlookup0 subtable" 36 -141 "kernlookup0 subtable" 38 -88 "kernlookup0 subtable" 39 -27 "kernlookup0 subtable" 42 -128 "kernlookup0 subtable" 43 -32 "kernlookup0 subtable" 44 -24 "kernlookup0 subtable" 45 -72 "kernlookup0 subtable" 46 -29 "kernlookup0 subtable" 47 -49 "kernlookup0 subtable" 49 -26 "kernlookup0 subtable" 50 -92 "kernlookup0 subtable" 51 -28 "kernlookup0 subtable" 52 -67 "kernlookup0 subtable" 54 -58 "kernlookup0 subtable" 55 -13 "kernlookup0 subtable" 57 -16 "kernlookup0 subtable" 68 -119 "kernlookup0 subtable" 70 -131 "kernlookup0 subtable" 71 -130 "kernlookup0 subtable" 72 -131 "kernlookup0 subtable" 73 -120 "kernlookup0 subtable" 74 -129 "kernlookup0 subtable" 76 -25 "kernlookup0 subtable" 77 14 "kernlookup0 subtable" 80 -77 "kernlookup0 subtable" 81 -114 "kernlookup0 subtable" 82 -146 "kernlookup0 subtable" 83 -99 "kernlookup0 subtable" 84 -130 "kernlookup0 subtable" 85 -115 "kernlookup0 subtable" 86 -144 "kernlookup0 subtable" 87 -110 "kernlookup0 subtable" 88 -124 "kernlookup0 subtable" 89 -103 "kernlookup0 subtable" 90 -106 "kernlookup0 subtable" 91 -93 "kernlookup0 subtable" 92 -115 "kernlookup0 subtable" 93 -115 "kernlookup0 subtable" 94 -80 "kernlookup0 subtable" 388 -141 "kernlookup0 subtable" 404 -141 "kernlookup0 subtable"
 EndChar

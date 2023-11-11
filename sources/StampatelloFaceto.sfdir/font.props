@@ -3,7 +3,7 @@ FontName: StampatelloFaceto
 FullName: Stampatello Faceto
 FamilyName: Stampatello Faceto
 Weight: Regular
-Copyright: C 2022 UkiyoMoji Fonts
+Copyright: (C) 2022 UkiyoMoji Fonts
 Version: 1.0
 ItalicAngle: 0
 UnderlinePosition: -192
@@ -11,19 +11,19 @@ UnderlineWidth: 80
 Ascent: 800
 Descent: 200
 InvalidEm: 0
-sfntRevision: 0x00010000
+UFOAscent: 800
+UFODescent: -200
 LayerCount: 2
 Layer: 0 0 "Back" 1
-Layer: 1 0 "Fore" 0
-XUID: [1021 597 -883840558 9569]
+Layer: 1 0 "public.default" 0 "glyphs"
 StyleMap: 0x0040
 FSType: 0
-OS2Version: 4
+OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1646718353
-ModificationTime: 1699607709
-PfmFamily: 17
+CreationTime: 1699634634
+ModificationTime: 1699634634
+PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
@@ -57,34 +57,31 @@ OS2XHeight: 544
 OS2Vendor: 'UKYO'
 OS2CodePages: 0000009f.00000000
 OS2UnicodeRanges: e00002ff.4200004a.00000020.00000200
-Lookup: 1 0 0 "'locl' Bulgarian" { "'locl' Bulgarian-1" ("loclBGR") } ['locl' ('cyrl' <'BGR ' > ) ]
-Lookup: 1 0 0 "'cv01' Character Variants 01 lookup 5" { "'cv01' Character Variants 01 lookup 5-1" ("cv01") } ['cv01' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'dflt' > 'grek' <'dflt' > 'latn' <' NLD' ' ROM' 'FLE ' 'MOL ' 'dflt' > 'shaw' <'dflt' > ) ]
-Lookup: 1 0 0 "'cv02' Character Variants 02 lookup 6" { "'cv02' Character Variants 02 lookup 6-1" ("cv02") } ['cv02' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'dflt' > 'grek' <'dflt' > 'latn' <' NLD' ' ROM' 'FLE ' 'MOL ' 'dflt' > 'shaw' <'dflt' > ) ]
-Lookup: 1 0 0 "'cv03' Character Variants 03 lookup 7" { "'cv03' Character Variants 03 lookup 7-1" ("cv03") } ['cv03' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'dflt' > 'grek' <'dflt' > 'latn' <' NLD' ' ROM' 'FLE ' 'MOL ' 'dflt' > 'shaw' <'dflt' > ) ]
-Lookup: 1 0 0 "'lnum' Lining Figures lookup 8" { "'lnum' Lining Figures lookup 8-1" ("lnum") } ['lnum' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'dflt' > 'grek' <'dflt' > 'latn' <' NLD' ' ROM' 'FLE ' 'MOL ' 'dflt' > 'shaw' <'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Romanian" { "'locl' Romanian-1"  } ['locl' ('latn' <' ROM' 'MOL ' > ) ]
-Lookup: 4 0 1 "'liga' Dutch" { "'liga' Dutch-1"  } ['liga' ('latn' <' NLD' 'FLE ' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'shaw' <'dflt' > ) ]
-Lookup: 1 0 0 "Case sensitive forms" { "Single Substitution lookup 1-1" ("case") } ['case' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'shaw' <'dflt' > ) ]
-MarkAttachClasses: 1
+Lookup: 1 0 0 "loclBulgarian" { "loclBulgarian subtable"  } ['locl' ('cyrl' <'BGR ' > ) ]
+Lookup: 1 0 0 "cv01CharacterVariants01lookup5" { "cv01CharacterVariants01lookup5 subtable"  } ['cv01' ('shaw' <'dflt' > 'latn' <'dflt' 'NLD ' 'ROM ' 'FLE ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "cv02CharacterVariants02lookup6" { "cv02CharacterVariants02lookup6 subtable"  } ['cv02' ('shaw' <'dflt' > 'latn' <'dflt' 'NLD ' 'ROM ' 'FLE ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "cv03CharacterVariants03lookup7" { "cv03CharacterVariants03lookup7 subtable"  } ['cv03' ('shaw' <'dflt' > 'latn' <'dflt' 'NLD ' 'ROM ' 'FLE ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "lnumLiningFigureslookup8" { "lnumLiningFigureslookup8 subtable"  } ['lnum' ('shaw' <'dflt' > 'latn' <'dflt' 'NLD ' 'ROM ' 'FLE ' 'MOL ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'BGR ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "loclRomanian" { "loclRomanian subtable"  } ['locl' ('latn' <'ROM ' 'MOL ' > ) ]
+Lookup: 4 0 1 "ligaDutch" { "ligaDutch subtable"  } ['liga' ('latn' <'NLD ' 'FLE ' > ) ]
+Lookup: 4 0 1 "ligaStandardLigatureslookup0" { "ligaStandardLigatureslookup0 subtable"  } ['liga' ('shaw' <'dflt' > 'latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Casesensitiveforms" { "Casesensitiveforms subtable"  } ['case' ('shaw' <'dflt' > 'latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 258 8 0 "kernlookup0" { "kernlookup0 subtable" [150,15,0] } ['kern' ('shaw' <'dflt' > 'latn' <'dflt' 'MOL ' 'ROM ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'BGR ' > 'DFLT' <'dflt' > ) ]
 DEI: 91125
 LangName: 1033 "(C) 2022 UkiyoMoji Fonts" "" "" "FontForge : Stampatello Faceto : 8-11-2023" "" "Version 1.0"
-Encoding: UnicodeFull
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
-NameList: AGL For New Fonts
-DisplaySize: -36
+NameList: AGL without afii
+DisplaySize: -48
 AntiAlias: 1
-FitToEm: 1
-WinInfo: 966 23 10
-BeginPrivate: 8
+FitToEm: 0
+WinInfo: 228 38 13
+BeginPrivate: 6
 BlueValues 31 [-28 0 538 574 890 892 904 943]
 OtherBlues 11 [-336 -288]
-BlueScale 9 0.0208333
-BlueShift 1 0
-StdHW 4 [57]
-StdVW 4 [75]
 StemSnapH 33 [57 65 70 78 82 88 92 97 102 106]
 StemSnapV 16 [75 78 83 87 94]
+BlueShift 1 0
+BlueScale 9 0.0208333
 EndPrivate
 EndSplineFont

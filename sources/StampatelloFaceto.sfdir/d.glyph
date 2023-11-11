@@ -1,30 +1,32 @@
 StartChar: d
-Encoding: 100 100 71
+Encoding: 71 100 71
+GlifName: d
 Width: 586
-GlyphClass: 1
+VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-252 432 m 0
- 178 432 128 328 128 222 c 0
- 128 144 136 102 192 102 c 0
- 246 102 324 248 380 354 c 1
- 360 374 310 432 252 432 c 0
-42 182 m 0
- 42 346 98 520 264 520 c 0
- 316 520 356 496 388 460 c 1
- 378 602 370 680 370 794 c 0
- 370 842 390 898 424 898 c 0
- 474 898 478 834 478 784 c 0
- 478 762 482 708 482 618 c 0
- 482 436 494 350 518 178 c 0
- 524 136 530 60 542 28 c 0
- 546 20 552 16 552 6 c 0
- 552 -32 520 -36 506 -36 c 0
- 436 -36 448 92 418 246 c 1
- 322 84 280 2 176 2 c 0
- 102 2 42 92 42 182 c 0
+252 432 m 256
+ 178 432 128 328 128 222 c 256
+ 128 144 136 102 192 102 c 256
+ 246 102 324 248 380 354 c 257
+ 360 374 310 432 252 432 c 256
+42 182 m 256
+ 42 346 98 520 264 520 c 256
+ 316 520 356 496 388 460 c 257
+ 378 602 370 680 370 794 c 256
+ 370 842 390 898 424 898 c 256
+ 474 898 478 834 478 784 c 256
+ 478 762 482 708 482 618 c 256
+ 482 436 494 350 518 178 c 256
+ 524 136 530 60 542 28 c 256
+ 546 20 552 16 552 6 c 256
+ 552 -32 520 -36 506 -36 c 256
+ 436 -36 448 92 418 246 c 257
+ 322 84 280 2 176 2 c 256
+ 102 2 42 92 42 182 c 256
 EndSplineSet
 Validated: 1
+Kerns2: 5 -40 "kernlookup0 subtable" 12 -60 "kernlookup0 subtable" 34 -20 "kernlookup0 subtable" 39 -20 "kernlookup0 subtable" 40 -29 "kernlookup0 subtable" 41 -24 "kernlookup0 subtable" 44 -28 "kernlookup0 subtable" 50 -22 "kernlookup0 subtable" 51 -18 "kernlookup0 subtable" 52 -24 "kernlookup0 subtable" 55 -48 "kernlookup0 subtable" 57 -64 "kernlookup0 subtable" 58 -45 "kernlookup0 subtable" 59 -42 "kernlookup0 subtable" 60 -41 "kernlookup0 subtable" 61 -16 "kernlookup0 subtable" 62 -17 "kernlookup0 subtable" 64 -42 "kernlookup0 subtable" 73 -35 "kernlookup0 subtable" 87 -24 "kernlookup0 subtable" 91 -17 "kernlookup0 subtable" 93 -16 "kernlookup0 subtable" 96 -35 "kernlookup0 subtable"
 EndChar

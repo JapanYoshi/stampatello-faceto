@@ -1,25 +1,27 @@
 StartChar: exclamdown
-Encoding: 161 161 99
+Encoding: 99 161 99
+GlifName: exclamdown
 Width: 222
-GlyphClass: 1
+VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-46 440 m 0
- 46 464 75 480 97 480 c 0
- 127 480 150 456 150 426 c 0
- 150 402 131 378 106 378 c 0
- 82 378 66 392 54 416 c 0
- 48 426 46 430 46 440 c 0
-104 202 m 0
- 124 202 138 198 144 188 c 0
- 151 176 188 -241 188 -274 c 0
- 188 -306 168 -336 136 -336 c 0
- 91 -336 80 -279 80 -244 c 0
- 80 -186 78 -80 72 24 c 0
- 70 76 68 100 68 154 c 0
- 68 190 82 202 104 202 c 0
+46 440 m 256
+ 46 464 75 480 97 480 c 256
+ 127 480 150 456 150 426 c 256
+ 150 402 131 378 106 378 c 256
+ 82 378 66 392 54 416 c 256
+ 48 426 46 430 46 440 c 256
+104 202 m 256
+ 124 202 138 198 144 188 c 256
+ 151 176 188 -241 188 -274 c 256
+ 188 -306 168 -336 136 -336 c 256
+ 91 -336 80 -279 80 -244 c 256
+ 80 -186 78 -80 72 24 c 256
+ 70 76 68 100 68 154 c 256
+ 68 190 82 202 104 202 c 256
 EndSplineSet
 Validated: 1
+Kerns2: 34 -66 "kernlookup0 subtable" 55 -126 "kernlookup0 subtable" 57 -85 "kernlookup0 subtable" 58 -76 "kernlookup0 subtable" 59 -69 "kernlookup0 subtable" 60 -102 "kernlookup0 subtable" 77 141 "kernlookup0 subtable" 87 -38 "kernlookup0 subtable"
 EndChar

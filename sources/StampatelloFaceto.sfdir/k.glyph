@@ -1,41 +1,43 @@
 StartChar: k
-Encoding: 107 107 78
+Encoding: 78 107 78
+GlifName: k
 Width: 567
-GlyphClass: 1
+VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-99 884 m 0
- 135 884 139 862 139 804 c 0
- 139 758 141 724 147 692 c 0
- 157 636 161 454 167 388 c 0
- 173 334 171 316 173 298 c 1
- 208 319 304 390 325 422 c 0
- 335 434 427 500 441 500 c 0
- 459 500 465 492 465 470 c 0
- 465 438 457 446 425 410 c 0
- 405 386 349 328 311 292 c 0
- 285 268 245 238 229 224 c 1
- 247 206 289 162 335 130 c 0
- 359 118 413 84 437 78 c 0
- 447 74 463 74 485 74 c 2
- 525 74 l 2
- 539 74 553 62 553 48 c 0
- 553 34 539 16 527 10 c 0
- 511 4 475 -10 455 -10 c 0
- 451 -10 441 -10 421 -8 c 0
- 353 4 287 34 225 86 c 0
- 205 102 187 112 181 116 c 1
- 181 106 181 92 183 80 c 0
- 185 62 197 44 197 34 c 0
- 197 4 159 -10 137 -10 c 0
- 111 -10 97 2 95 32 c 0
- 93 68 93 82 93 100 c 0
- 93 110 89 162 87 260 c 0
- 85 410 71 472 71 632 c 0
- 71 642 53 784 53 826 c 0
- 53 850 67 884 99 884 c 0
+99 884 m 256
+ 135 884 139 862 139 804 c 256
+ 139 758 141 724 147 692 c 256
+ 157 636 161 454 167 388 c 256
+ 173 334 171 316 173 298 c 257
+ 208 319 304 390 325 422 c 256
+ 335 434 427 500 441 500 c 256
+ 459 500 465 492 465 470 c 256
+ 465 438 457 446 425 410 c 256
+ 405 386 349 328 311 292 c 256
+ 285 268 245 238 229 224 c 257
+ 247 206 289 162 335 130 c 256
+ 359 118 413 84 437 78 c 256
+ 447 74 463 74 485 74 c 258
+ 525 74 l 258
+ 539 74 553 62 553 48 c 256
+ 553 34 539 16 527 10 c 256
+ 511 4 475 -10 455 -10 c 256
+ 451 -10 441 -10 421 -8 c 256
+ 353 4 287 34 225 86 c 256
+ 205 102 187 112 181 116 c 257
+ 181 106 181 92 183 80 c 256
+ 185 62 197 44 197 34 c 256
+ 197 4 159 -10 137 -10 c 256
+ 111 -10 97 2 95 32 c 256
+ 93 68 93 82 93 100 c 256
+ 93 110 89 162 87 260 c 256
+ 85 410 71 472 71 632 c 256
+ 71 642 53 784 53 826 c 256
+ 53 850 67 884 99 884 c 256
 EndSplineSet
 Validated: 1
+Kerns2: 5 -132 "kernlookup0 subtable" 10 -125 "kernlookup0 subtable" 12 -114 "kernlookup0 subtable" 34 -87 "kernlookup0 subtable" 38 -36 "kernlookup0 subtable" 39 -51 "kernlookup0 subtable" 40 -42 "kernlookup0 subtable" 41 -71 "kernlookup0 subtable" 42 -41 "kernlookup0 subtable" 43 -25 "kernlookup0 subtable" 44 -36 "kernlookup0 subtable" 45 -21 "kernlookup0 subtable" 46 -33 "kernlookup0 subtable" 48 -51 "kernlookup0 subtable" 49 -18 "kernlookup0 subtable" 50 -39 "kernlookup0 subtable" 51 -63 "kernlookup0 subtable" 52 -63 "kernlookup0 subtable" 53 -42 "kernlookup0 subtable" 55 -152 "kernlookup0 subtable" 56 -32 "kernlookup0 subtable" 57 -118 "kernlookup0 subtable" 58 -77 "kernlookup0 subtable" 59 -62 "kernlookup0 subtable" 60 -152 "kernlookup0 subtable" 62 -24 "kernlookup0 subtable" 64 -139 "kernlookup0 subtable" 69 -45 "kernlookup0 subtable" 70 -46 "kernlookup0 subtable" 71 -37 "kernlookup0 subtable" 72 -37 "kernlookup0 subtable" 73 -58 "kernlookup0 subtable" 74 -37 "kernlookup0 subtable" 76 -35 "kernlookup0 subtable" 77 -2 "kernlookup0 subtable" 78 -17 "kernlookup0 subtable" 79 -18 "kernlookup0 subtable" 81 -23 "kernlookup0 subtable" 82 -43 "kernlookup0 subtable" 84 -54 "kernlookup0 subtable" 87 -42 "kernlookup0 subtable" 88 -13 "kernlookup0 subtable" 89 -46 "kernlookup0 subtable" 91 -25 "kernlookup0 subtable" 92 -24 "kernlookup0 subtable" 94 -47 "kernlookup0 subtable" 96 -97 "kernlookup0 subtable" 388 -40 "kernlookup0 subtable" 404 -50 "kernlookup0 subtable"
 EndChar

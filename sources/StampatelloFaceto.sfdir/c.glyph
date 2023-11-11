@@ -1,33 +1,35 @@
 StartChar: c
-Encoding: 99 99 70
+Encoding: 70 99 70
+GlifName: c
 Width: 504
-GlyphClass: 1
+VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-100 80 m 0
- 68 130 50 186 50 234 c 0
- 50 240 52 260 52 270 c 0
- 62 398 96 470 128 504 c 0
- 156 534 208 546 256 546 c 0
- 294 546 334 522 350 506 c 0
- 386 470 404 458 404 426 c 0
- 404 402 392 384 364 372 c 0
- 348 364 336 360 326 360 c 0
- 316 360 310 366 310 376 c 0
- 310 386 322 394 322 402 c 0
- 322 436 277 458 248 458 c 0
- 212 458 170 426 158 378 c 0
- 146 324 140 276 140 240 c 0
- 140 179 196 78 264 78 c 0
- 302 78 342 92 368 106 c 0
- 426 138 442 148 464 148 c 0
- 478 148 490 140 490 126 c 0
- 490 116 486 102 468 84 c 0
- 454 68 434 52 416 42 c 0
- 380 20 330 -16 256 -16 c 0
- 182 -16 136 24 100 80 c 0
+100 80 m 256
+ 68 130 50 186 50 234 c 256
+ 50 240 52 260 52 270 c 256
+ 62 398 96 470 128 504 c 256
+ 156 534 208 546 256 546 c 256
+ 294 546 334 522 350 506 c 256
+ 386 470 404 458 404 426 c 256
+ 404 402 392 384 364 372 c 256
+ 348 364 336 360 326 360 c 256
+ 316 360 310 366 310 376 c 256
+ 310 386 322 394 322 402 c 256
+ 322 436 277 458 248 458 c 256
+ 212 458 170 426 158 378 c 256
+ 146 324 140 276 140 240 c 256
+ 140 179 196 78 264 78 c 256
+ 302 78 342 92 368 106 c 256
+ 426 138 442 148 464 148 c 256
+ 478 148 490 140 490 126 c 256
+ 490 116 486 102 468 84 c 256
+ 454 68 434 52 416 42 c 256
+ 380 20 330 -16 256 -16 c 256
+ 182 -16 136 24 100 80 c 256
 EndSplineSet
 Validated: 1
+Kerns2: 12 -77 "kernlookup0 subtable" 34 -87 "kernlookup0 subtable" 38 -16 "kernlookup0 subtable" 39 -36 "kernlookup0 subtable" 40 -37 "kernlookup0 subtable" 41 -24 "kernlookup0 subtable" 50 -9 "kernlookup0 subtable" 51 -43 "kernlookup0 subtable" 52 -28 "kernlookup0 subtable" 55 -203 "kernlookup0 subtable" 56 -25 "kernlookup0 subtable" 57 -122 "kernlookup0 subtable" 58 -85 "kernlookup0 subtable" 59 -66 "kernlookup0 subtable" 60 -152 "kernlookup0 subtable" 64 -134 "kernlookup0 subtable" 73 -17 "kernlookup0 subtable" 86 -14 "kernlookup0 subtable" 87 -50 "kernlookup0 subtable" 89 -21 "kernlookup0 subtable" 91 -36 "kernlookup0 subtable" 93 -16 "kernlookup0 subtable" 96 -99 "kernlookup0 subtable"
 EndChar

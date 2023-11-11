@@ -1,18 +1,19 @@
 StartChar: anoteleia
-Encoding: 903 903 536
+Encoding: 536 903 536
+GlifName: anoteleia
 Width: 210
-GlyphClass: 1
+VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-68 280 m 0
- 68 306 82 318 112 318 c 0
- 142 318 172 304 172 270 c 0
- 172 254 166 240 154 224 c 0
- 144 208 132 200 122 200 c 0
- 104 200 52 221 52 242 c 0
- 52 256 68 250 68 280 c 0
+68 280 m 256
+ 68 306 82 318 112 318 c 256
+ 142 318 172 304 172 270 c 256
+ 172 254 166 240 154 224 c 256
+ 144 208 132 200 122 200 c 256
+ 104 200 52 221 52 242 c 256
+ 52 256 68 250 68 280 c 256
 EndSplineSet
 Validated: 1
 EndChar

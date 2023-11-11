@@ -1,7 +1,8 @@
 StartChar: uni000D
-Encoding: 13 13 2
+Encoding: 2 13 2
+GlifName: uni000D_
 Width: 250
-GlyphClass: 1
+VWidth: 0
 Flags: W
 LayerCount: 2
 Fore

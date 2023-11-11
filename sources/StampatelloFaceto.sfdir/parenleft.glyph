@@ -1,26 +1,28 @@
 StartChar: parenleft
-Encoding: 40 40 11
+Encoding: 11 40 11
+GlifName: parenleft
 Width: 396
-GlyphClass: 1
+VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-80 586 m 0
- 111 679 214 826 324 826 c 0
- 338 826 348 820 348 792 c 0
- 348 760 344 756 320 748 c 0
- 273 733 208 660 186 616 c 0
- 146 547 114 400 114 324 c 0
- 114 228 147 35 192 -54 c 0
- 211 -100 251 -182 310 -182 c 0
- 322 -182 328 -180 340 -180 c 0
- 352 -180 362 -192 362 -208 c 0
- 362 -240 322 -270 308 -270 c 0
- 153 -270 80 -13 62 108 c 0
- 52 180 38 228 38 304 c 0
- 38 407 47 486 80 586 c 0
+80 586 m 256
+ 111 679 214 826 324 826 c 256
+ 338 826 348 820 348 792 c 256
+ 348 760 344 756 320 748 c 256
+ 273 733 208 660 186 616 c 256
+ 146 547 114 400 114 324 c 256
+ 114 228 147 35 192 -54 c 256
+ 211 -100 251 -182 310 -182 c 256
+ 322 -182 328 -180 340 -180 c 256
+ 352 -180 362 -192 362 -208 c 256
+ 362 -240 322 -270 308 -270 c 256
+ 153 -270 80 -13 62 108 c 256
+ 52 180 38 228 38 304 c 256
+ 38 407 47 486 80 586 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 1-1" parenleft.case
+Kerns2: 36 -74 "kernlookup0 subtable" 38 -85 "kernlookup0 subtable" 42 -135 "kernlookup0 subtable" 45 -63 "kernlookup0 subtable" 50 -79 "kernlookup0 subtable" 52 -57 "kernlookup0 subtable" 54 -52 "kernlookup0 subtable" 68 -84 "kernlookup0 subtable" 70 -111 "kernlookup0 subtable" 71 -112 "kernlookup0 subtable" 72 -97 "kernlookup0 subtable" 73 -116 "kernlookup0 subtable" 74 -97 "kernlookup0 subtable" 77 102 "kernlookup0 subtable" 80 -55 "kernlookup0 subtable" 81 -86 "kernlookup0 subtable" 82 -74 "kernlookup0 subtable" 83 -45 "kernlookup0 subtable" 84 -126 "kernlookup0 subtable" 85 -66 "kernlookup0 subtable" 86 -75 "kernlookup0 subtable" 87 -83 "kernlookup0 subtable" 88 -64 "kernlookup0 subtable" 89 -69 "kernlookup0 subtable" 90 -77 "kernlookup0 subtable" 91 -31 "kernlookup0 subtable" 92 -75 "kernlookup0 subtable" 93 -89 "kernlookup0 subtable" 94 -141 "kernlookup0 subtable"
+Substitution2: "Casesensitiveforms subtable" parenleft.case
 EndChar

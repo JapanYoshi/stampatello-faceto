@@ -1,19 +1,21 @@
 StartChar: comma
-Encoding: 44 44 15
+Encoding: 15 44 15
+GlifName: comma
 Width: 182
-GlyphClass: 1
+VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-116 108 m 0
- 144 108 148 86 148 48 c 0
- 148 -16 139 -69 130 -120 c 0
- 124 -152 120 -178 116 -194 c 0
- 112 -211 89 -280 68 -280 c 0
- 54 -280 46 -250 46 -194 c 0
- 46 -113 52 -29 62 52 c 0
- 68 99 86 108 116 108 c 0
+116 108 m 256
+ 144 108 148 86 148 48 c 256
+ 148 -16 139 -69 130 -120 c 256
+ 124 -152 120 -178 116 -194 c 256
+ 112 -211 89 -280 68 -280 c 256
+ 54 -280 46 -250 46 -194 c 256
+ 46 -113 52 -29 62 52 c 256
+ 68 99 86 108 116 108 c 256
 EndSplineSet
 Validated: 1
+Kerns2: 12 -26 "kernlookup0 subtable" 34 -92 "kernlookup0 subtable" 38 -36 "kernlookup0 subtable" 39 -46 "kernlookup0 subtable" 42 -46 "kernlookup0 subtable" 45 -18 "kernlookup0 subtable" 50 -64 "kernlookup0 subtable" 51 -17 "kernlookup0 subtable" 52 -68 "kernlookup0 subtable" 55 -105 "kernlookup0 subtable" 56 -80 "kernlookup0 subtable" 57 -130 "kernlookup0 subtable" 58 -84 "kernlookup0 subtable" 59 -61 "kernlookup0 subtable" 60 -65 "kernlookup0 subtable" 64 -44 "kernlookup0 subtable" 73 -108 "kernlookup0 subtable" 87 -91 "kernlookup0 subtable" 89 -62 "kernlookup0 subtable" 94 -98 "kernlookup0 subtable" 96 -47 "kernlookup0 subtable"
 EndChar
