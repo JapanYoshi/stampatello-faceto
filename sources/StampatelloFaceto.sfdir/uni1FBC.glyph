@@ -1,5 +1,5 @@
 StartChar: uni1FBC
-Encoding: 994 8124 994
+Encoding: 8124 8124 994
 GlifName: uni1F_B_C_
 Width: 887
 VWidth: 0
@@ -66,5 +66,5 @@ SplineSet
  19.999 112.001 21.999 134.001 27.999 160.001 c 256
  39.999 255.001 75.999 358.001 121.999 442.001 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

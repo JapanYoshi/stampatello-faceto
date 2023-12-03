@@ -1,5 +1,5 @@
 StartChar: two
-Encoding: 21 50 21
+Encoding: 50 50 21
 GlifName: two
 Width: 478
 VWidth: 0
@@ -32,5 +32,5 @@ SplineSet
  254 286 306 344 306 404 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "lnumLiningFigureslookup8 subtable" two.lnum
+Substitution2: "lnumLiningFigureslookup8 subtable" uniE077
 EndChar

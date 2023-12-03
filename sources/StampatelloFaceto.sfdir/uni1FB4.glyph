@@ -1,5 +1,5 @@
 StartChar: uni1FB4
-Encoding: 987 8116 987
+Encoding: 8116 8116 987
 GlifName: uni1F_B_4
 Width: 622
 VWidth: 0
@@ -68,6 +68,6 @@ SplineSet
  298 544 329 491 354 452 c 256
  375 418 390 386 407 349 c 257
 EndSplineSet
-Validated: 524289
-Substitution2: "cv01CharacterVariants01lookup5 subtable" uni1FB4.cv01
+Validated: 1
+Substitution2: "cv01CharacterVariants01lookup5 subtable" uniE06B
 EndChar

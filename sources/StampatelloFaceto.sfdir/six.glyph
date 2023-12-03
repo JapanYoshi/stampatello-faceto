@@ -1,5 +1,5 @@
 StartChar: six
-Encoding: 25 54 25
+Encoding: 54 54 25
 GlifName: six
 Width: 550
 VWidth: 0
@@ -32,5 +32,5 @@ SplineSet
  190 454 274 484 328 484 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "lnumLiningFigureslookup8 subtable" six.lnum
+Substitution2: "lnumLiningFigureslookup8 subtable" uniE07B
 EndChar

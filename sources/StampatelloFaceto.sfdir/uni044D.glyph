@@ -1,5 +1,5 @@
 StartChar: uni044D
-Encoding: 705 1101 705
+Encoding: 1101 1101 705
 GlifName: uni044D_
 Width: 514
 VWidth: 0
@@ -43,5 +43,6 @@ SplineSet
  362 327 l 257
  373 327 l 257
 EndSplineSet
-Validated: 524289
+Validated: 1
+Kerns2: 662 -173 "kernlookup0 subtable" 650 -80 "kernlookup0 subtable" 639 -70 "kernlookup0 subtable" 635 -40 "kernlookup0 subtable" 634 -50 "kernlookup0 subtable" 630 -76 "kernlookup0 subtable"
 EndChar

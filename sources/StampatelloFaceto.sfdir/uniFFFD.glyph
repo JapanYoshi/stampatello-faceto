@@ -1,5 +1,5 @@
 StartChar: uniFFFD
-Encoding: 1104 65533 1104
+Encoding: 65533 65533 1104
 GlifName: uniF_F_F_D_
 Width: 1270
 VWidth: 0
@@ -103,5 +103,5 @@ SplineSet
  660.003 237.002 650.003 234.002 641.003 234.002 c 256
  626.003 234.002 617.003 244.002 596.003 268.002 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

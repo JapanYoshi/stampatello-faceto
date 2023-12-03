@@ -1,5 +1,5 @@
 StartChar: macron
-Encoding: 111 175 111
+Encoding: 175 175 111
 GlifName: macron
 Width: 396
 VWidth: 0
@@ -25,5 +25,5 @@ SplineSet
  -4.25781 768.758 4.87109 783.046 14 794 c 256
  20 800 26 804 34 804 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

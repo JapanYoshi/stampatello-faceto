@@ -1,5 +1,5 @@
 StartChar: question
-Encoding: 34 63 34
+Encoding: 63 63 34
 GlifName: question
 Width: 474
 VWidth: 0
@@ -37,4 +37,5 @@ SplineSet
  262 99 337 78 337 47 c 256
 EndSplineSet
 Validated: 1
+Kerns2: 655 -50 "kernlookup0 subtable" 652 32 "kernlookup0 subtable" 648 -90 "kernlookup0 subtable" 644 -40 "kernlookup0 subtable" 1277 -36 "kernlookup0 subtable" 17 -90 "kernlookup0 subtable" 1273 -78 "kernlookup0 subtable" 1272 -16 "kernlookup0 subtable" 1271 -61 "kernlookup0 subtable" 1269 -50 "kernlookup0 subtable" 1258 -17 "kernlookup0 subtable" 1267 -12 "kernlookup0 subtable" 1257 -65 "kernlookup0 subtable" 1266 -85 "kernlookup0 subtable" 1265 -60 "kernlookup0 subtable" 1255 -17 "kernlookup0 subtable" 1264 -5 "kernlookup0 subtable" 1254 -31 "kernlookup0 subtable" 1253 -67 "kernlookup0 subtable" 1252 -16 "kernlookup0 subtable" 1260 -50 "kernlookup0 subtable" 1250 -80 "kernlookup0 subtable" 1259 -28 "kernlookup0 subtable" 1249 -70 "kernlookup0 subtable" 1247 -205 "kernlookup0 subtable" 1242 -53 "kernlookup0 subtable" 1246 -20 "kernlookup0 subtable" 1245 -26 "kernlookup0 subtable" 1244 -39 "kernlookup0 subtable" 1243 -59 "kernlookup0 subtable"
 EndChar

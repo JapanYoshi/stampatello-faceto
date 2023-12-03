@@ -1,5 +1,5 @@
 StartChar: tau
-Encoding: 594 964 594
+Encoding: 964 964 594
 GlifName: tau
 Width: 520
 VWidth: 0
@@ -38,5 +38,5 @@ SplineSet
  317 533 330 535 344 535 c 256
  355 535 369 533 380 533 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

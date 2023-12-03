@@ -1,5 +1,5 @@
 StartChar: uni03E0
-Encoding: 618 992 618
+Encoding: 992 992 618
 GlifName: uni03E_0
 Width: 616
 VWidth: 0
@@ -44,5 +44,5 @@ SplineSet
  432 223 460 339 468 453 c 257
  429 434 252 326 243 315 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

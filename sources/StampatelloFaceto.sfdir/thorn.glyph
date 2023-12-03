@@ -1,9 +1,11 @@
 StartChar: thorn
-Encoding: 190 254 190
+Encoding: 254 254 190
 GlifName: thorn
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 138 -255 basechar 0
+AnchorPoint: "top" 280 937 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -57,5 +59,4 @@ SplineSet
  84 897 91 899 102 899 c 256
  134 899 151 892 151 861 c 256
 EndSplineSet
-Validated: 524321
 EndChar

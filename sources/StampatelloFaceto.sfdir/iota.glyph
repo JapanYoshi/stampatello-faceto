@@ -1,5 +1,5 @@
 StartChar: iota
-Encoding: 583 953 583
+Encoding: 953 953 583
 GlifName: iota
 Width: 250
 VWidth: 0
@@ -28,5 +28,5 @@ SplineSet
  81 533 96 547 108 547 c 256
  110 547 112 547 114 546 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

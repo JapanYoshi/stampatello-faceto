@@ -1,9 +1,11 @@
 StartChar: germandbls
-Encoding: 159 223 159
+Encoding: 223 223 159
 GlifName: germandbls
 Width: 634
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 338 27 basechar 0
+AnchorPoint: "top" 316 945 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -45,5 +47,4 @@ SplineSet
  163 683 159 662 149 626 c 256
  142 600 138 550 138 476 c 256
 EndSplineSet
-Validated: 524289
 EndChar

@@ -1,5 +1,5 @@
 StartChar: upsilondieresis
-Encoding: 601 971 601
+Encoding: 971 971 601
 GlifName: upsilondieresis
 Width: 554
 VWidth: 0
@@ -48,5 +48,5 @@ SplineSet
  422.999 472.999 401.999 491.999 401.999 513.999 c 256
  401.999 524.999 406.999 535.999 420.999 548.999 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

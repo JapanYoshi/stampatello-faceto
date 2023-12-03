@@ -1,5 +1,5 @@
 StartChar: Lambda
-Encoding: 554 923 554
+Encoding: 923 923 554
 GlifName: L_ambda
 Width: 695
 VWidth: 0
@@ -35,5 +35,5 @@ SplineSet
  255 812 260 835 272 861 c 256
  285 891 307 917 326 917 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

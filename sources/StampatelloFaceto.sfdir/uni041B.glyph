@@ -1,5 +1,5 @@
 StartChar: uni041B
-Encoding: 655 1051 655
+Encoding: 1051 1051 655
 GlifName: uni041B_
 Width: 695
 VWidth: 0
@@ -35,5 +35,6 @@ SplineSet
  245 812 250 835 262 861 c 256
  275 891 297 917 316 917 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
+Kerns2: 16 -36 "kernlookup0 subtable" 1120 -50 "kernlookup0 subtable" 10 -60 "kernlookup0 subtable" 34 -104 "kernlookup0 subtable" 725 -122 "kernlookup0 subtable" 724 -161 "kernlookup0 subtable" 719 -75 "kernlookup0 subtable" 712 -16 "kernlookup0 subtable" 710 -76 "kernlookup0 subtable" 705 -50 "kernlookup0 subtable" 704 -25 "kernlookup0 subtable" 702 -89 "kernlookup0 subtable" 701 -31 "kernlookup0 subtable" 699 -67 "kernlookup0 subtable" 697 -55 "kernlookup0 subtable" 694 -102 "kernlookup0 subtable" 693 -28 "kernlookup0 subtable" 673 -75 "kernlookup0 subtable" 670 -167 "kernlookup0 subtable" 667 -88 "kernlookup0 subtable" 660 -52 "kernlookup0 subtable" 658 -44 "kernlookup0 subtable" 665 -73 "kernlookup0 subtable" 664 -75 "kernlookup0 subtable" 663 -9 "kernlookup0 subtable" 662 -127 "kernlookup0 subtable" 651 -12 "kernlookup0 subtable" 650 -93 "kernlookup0 subtable" 649 -60 "kernlookup0 subtable" 642 -10 "kernlookup0 subtable" 641 -40 "kernlookup0 subtable" 639 -113 "kernlookup0 subtable" 636 -20 "kernlookup0 subtable" 634 -20 "kernlookup0 subtable" 632 -40 "kernlookup0 subtable" 630 -85 "kernlookup0 subtable"
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni1FDD
-Encoding: 1023 8157 1023
+Encoding: 8157 8157 1023
 GlifName: uni1F_D_D_
 Width: 498
 VWidth: 0
@@ -33,5 +33,5 @@ SplineSet
  220.001 605.999 238.001 577.999 238.001 561.999 c 256
  238.001 545.999 226.001 533.999 196.001 533.999 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

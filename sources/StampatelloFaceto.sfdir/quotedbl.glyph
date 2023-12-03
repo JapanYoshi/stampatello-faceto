@@ -1,5 +1,5 @@
 StartChar: quotedbl
-Encoding: 5 34 5
+Encoding: 34 34 5
 GlifName: quotedbl
 Width: 414
 VWidth: 0
@@ -29,6 +29,6 @@ SplineSet
  140.001 575.999 124.001 577.999 110.001 609.999 c 256
  74.001 690.999 72.001 726.999 72.001 817.999 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 Kerns2: 5 -45 "kernlookup0 subtable" 12 -17 "kernlookup0 subtable" 36 -158 "kernlookup0 subtable" 38 -29 "kernlookup0 subtable" 41 -20 "kernlookup0 subtable" 42 -75 "kernlookup0 subtable" 44 -20 "kernlookup0 subtable" 45 -96 "kernlookup0 subtable" 71 -91 "kernlookup0 subtable" 73 -104 "kernlookup0 subtable" 87 -47 "kernlookup0 subtable" 94 -80 "kernlookup0 subtable"
 EndChar

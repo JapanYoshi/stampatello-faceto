@@ -1,9 +1,10 @@
 StartChar: dotbelowcomb
-Encoding: 523 803 523
+Encoding: 803 803 523
 GlifName: dotbelowcomb
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "bottom" -266 -20 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16,5 +17,4 @@ SplineSet
  -280 -292 -298 -272 -312 -254 c 256
  -328 -236 -340 -218 -340 -186 c 256
 EndSplineSet
-Validated: 1
 EndChar

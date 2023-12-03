@@ -1,9 +1,10 @@
 StartChar: uni030C
-Encoding: 521 780 521
+Encoding: 780 780 521
 GlifName: uni030C_
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "top" -311 880 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -22,5 +23,4 @@ SplineSet
  -210 1010 -206 1018 -258 954 c 256
  -273 935 -278 924 -314 924 c 256
 EndSplineSet
-Validated: 1
 EndChar

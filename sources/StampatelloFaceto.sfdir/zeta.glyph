@@ -1,5 +1,5 @@
 StartChar: zeta
-Encoding: 580 950 580
+Encoding: 950 950 580
 GlifName: zeta
 Width: 588
 VWidth: 0
@@ -38,5 +38,5 @@ SplineSet
  161 830 125 831 114 850 c 256
  112 853 111 858 111 863 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

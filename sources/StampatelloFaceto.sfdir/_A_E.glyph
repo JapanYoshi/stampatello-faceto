@@ -1,9 +1,11 @@
 StartChar: AE
-Encoding: 134 198 134
+Encoding: 198 198 134
 GlifName: A_E_
 Width: 1174
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 602 33 basechar 0
+AnchorPoint: "top" 564 909 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -72,5 +74,4 @@ SplineSet
  148 172 138 136 128 62 c 256
  122 26 116 4 90 4 c 256
 EndSplineSet
-Validated: 524321
 EndChar

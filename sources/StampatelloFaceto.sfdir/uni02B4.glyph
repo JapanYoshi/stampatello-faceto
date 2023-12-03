@@ -1,5 +1,5 @@
 StartChar: uni02B4
-Encoding: 487 692 487
+Encoding: 692 692 487
 GlifName: uni02B_4
 Width: 444
 VWidth: 0
@@ -35,5 +35,5 @@ SplineSet
  187 527 l 258
  170 527 152 536 135 542 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

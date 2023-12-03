@@ -1,9 +1,11 @@
 StartChar: R
-Encoding: 53 82 53
+Encoding: 82 82 53
 GlifName: R_
 Width: 708
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 350 41 basechar 0
+AnchorPoint: "top" 314 915 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -48,6 +50,5 @@ SplineSet
  426.001 187 388.001 221 362.001 249 c 256
  320.001 293 270.001 311 160.001 321 c 257
 EndSplineSet
-Validated: 524289
 Kerns2: 5 -91 "kernlookup0 subtable" 10 -64 "kernlookup0 subtable" 12 -101 "kernlookup0 subtable" 34 -69 "kernlookup0 subtable" 37 -29 "kernlookup0 subtable" 38 -74 "kernlookup0 subtable" 39 -75 "kernlookup0 subtable" 40 -83 "kernlookup0 subtable" 41 -68 "kernlookup0 subtable" 42 -61 "kernlookup0 subtable" 43 -37 "kernlookup0 subtable" 44 -53 "kernlookup0 subtable" 45 -52 "kernlookup0 subtable" 46 -36 "kernlookup0 subtable" 47 -19 "kernlookup0 subtable" 48 -49 "kernlookup0 subtable" 49 -37 "kernlookup0 subtable" 50 -78 "kernlookup0 subtable" 51 -72 "kernlookup0 subtable" 52 -74 "kernlookup0 subtable" 53 -50 "kernlookup0 subtable" 55 -133 "kernlookup0 subtable" 56 -61 "kernlookup0 subtable" 57 -87 "kernlookup0 subtable" 58 -95 "kernlookup0 subtable" 59 -98 "kernlookup0 subtable" 60 -110 "kernlookup0 subtable" 64 -165 "kernlookup0 subtable" 69 -37 "kernlookup0 subtable" 70 -60 "kernlookup0 subtable" 71 -37 "kernlookup0 subtable" 72 -35 "kernlookup0 subtable" 73 -70 "kernlookup0 subtable" 74 -85 "kernlookup0 subtable" 76 -47 "kernlookup0 subtable" 77 -21 "kernlookup0 subtable" 78 -19 "kernlookup0 subtable" 79 -29 "kernlookup0 subtable" 81 -35 "kernlookup0 subtable" 82 -59 "kernlookup0 subtable" 84 -53 "kernlookup0 subtable" 87 -51 "kernlookup0 subtable" 88 -44 "kernlookup0 subtable" 89 -55 "kernlookup0 subtable" 91 -47 "kernlookup0 subtable" 92 -35 "kernlookup0 subtable" 93 -32 "kernlookup0 subtable" 94 -71 "kernlookup0 subtable" 96 -106 "kernlookup0 subtable" 388 -50 "kernlookup0 subtable" 404 -50 "kernlookup0 subtable"
 EndChar

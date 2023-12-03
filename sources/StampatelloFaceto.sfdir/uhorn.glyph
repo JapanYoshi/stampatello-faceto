@@ -1,9 +1,11 @@
 StartChar: uhorn
-Encoding: 322 432 322
+Encoding: 432 432 322
 GlifName: uhorn
 Width: 694
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 290 1 basechar 0
+AnchorPoint: "top" 266 661 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60,5 +62,4 @@ SplineSet
  486 758 500 779 527 781 c 258
  536 781 l 258
 EndSplineSet
-Validated: 524289
 EndChar

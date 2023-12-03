@@ -1,5 +1,5 @@
 StartChar: alpha
-Encoding: 575 945 575
+Encoding: 945 945 575
 GlifName: alpha
 Width: 622
 VWidth: 0
@@ -42,5 +42,5 @@ SplineSet
  375 418 390 386 407 349 c 257
 EndSplineSet
 Validated: 1
-Substitution2: "cv01CharacterVariants01lookup5 subtable" alpha.cv01
+Substitution2: "cv01CharacterVariants01lookup5 subtable" uniE048
 EndChar

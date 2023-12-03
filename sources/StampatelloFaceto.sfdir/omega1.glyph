@@ -1,5 +1,5 @@
 StartChar: omega1
-Encoding: 612 982 612
+Encoding: 982 982 612
 GlifName: omega1
 Width: 1014
 VWidth: 0
@@ -60,5 +60,5 @@ SplineSet
  246.999 91.999 257.999 96.999 271.999 106.999 c 256
  352.999 166.999 416.999 331.999 424.999 427.999 c 257
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

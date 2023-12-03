@@ -1,5 +1,5 @@
 StartChar: cedilla
-Encoding: 120 184 120
+Encoding: 184 184 120
 GlifName: cedilla
 Width: 390
 VWidth: 0
@@ -24,5 +24,5 @@ SplineSet
  180 37 205 53 227 53 c 256
  244 53 260 43 264 24 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

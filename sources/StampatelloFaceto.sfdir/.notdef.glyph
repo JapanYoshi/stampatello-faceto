@@ -1,5 +1,5 @@
 StartChar: .notdef
-Encoding: 0 -1 0
+Encoding: 1114112 -1 0
 GlifName: _notdef
 Width: 1270
 VWidth: 0
@@ -103,5 +103,5 @@ SplineSet
  670.003 237.002 660.003 234.002 651.003 234.002 c 256
  636.003 234.002 627.003 244.002 606.003 268.002 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

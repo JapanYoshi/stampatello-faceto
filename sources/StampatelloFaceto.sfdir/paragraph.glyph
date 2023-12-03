@@ -1,5 +1,5 @@
 StartChar: paragraph
-Encoding: 118 182 118
+Encoding: 182 182 118
 GlifName: paragraph
 Width: 778
 VWidth: 0
@@ -60,5 +60,5 @@ SplineSet
  530 -28.001 484 -0.000976562 484 21.999 c 256
  484 61.999 484 123.999 472 185.999 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

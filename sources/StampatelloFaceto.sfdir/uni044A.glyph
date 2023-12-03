@@ -1,5 +1,5 @@
 StartChar: uni044A
-Encoding: 702 1098 702
+Encoding: 1098 1098 702
 GlifName: uni044A_
 Width: 596
 VWidth: 0
@@ -33,5 +33,6 @@ SplineSet
  334 518 319 497 305 470 c 256
  283 429 254 367 236 311 c 257
 EndSplineSet
-Validated: 524289
+Validated: 1
+Kerns2: 662 -142 "kernlookup0 subtable" 650 -67 "kernlookup0 subtable" 639 -40 "kernlookup0 subtable" 634 -20 "kernlookup0 subtable" 630 -46 "kernlookup0 subtable"
 EndChar

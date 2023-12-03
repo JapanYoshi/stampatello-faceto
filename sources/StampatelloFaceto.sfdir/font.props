@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1699634634
-ModificationTime: 1699634634
+ModificationTime: 1700189900
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -67,15 +67,17 @@ Lookup: 4 0 1 "ligaDutch" { "ligaDutch subtable"  } ['liga' ('latn' <'NLD ' 'FLE
 Lookup: 4 0 1 "ligaStandardLigatureslookup0" { "ligaStandardLigatureslookup0 subtable"  } ['liga' ('shaw' <'dflt' > 'latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Casesensitiveforms" { "Casesensitiveforms subtable"  } ['case' ('shaw' <'dflt' > 'latn' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 258 8 0 "kernlookup0" { "kernlookup0 subtable" [150,15,0] } ['kern' ('shaw' <'dflt' > 'latn' <'dflt' 'MOL ' 'ROM ' > 'grek' <'dflt' > 'cyrl' <'dflt' 'BGR ' > 'DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "(C) 2022 UkiyoMoji Fonts" "" "" "FontForge : Stampatello Faceto : 8-11-2023" "" "Version 1.0"
-Encoding: Custom
+Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
-NameList: AGL without afii
-DisplaySize: -48
+NameList: AGL For New Fonts
+DisplaySize: -24
 AntiAlias: 1
-FitToEm: 0
-WinInfo: 228 38 13
+FitToEm: 1
+WinInfo: 559 43 17
 BeginPrivate: 6
 BlueValues 31 [-28 0 538 574 890 892 904 943]
 OtherBlues 11 [-336 -288]
@@ -84,4 +86,5 @@ StemSnapV 16 [75 78 83 87 94]
 BlueShift 1 0
 BlueScale 9 0.0208333
 EndPrivate
+AnchorClass2: "bottom"""  "top""" 
 EndSplineFont

@@ -1,9 +1,11 @@
 StartChar: aring
-Encoding: 165 229 165
+Encoding: 229 229 165
 GlifName: aring
 Width: 526
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 254 21 basechar 0
+AnchorPoint: "top" 264 865 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -70,6 +72,5 @@ SplineSet
  109 705.001 113 734.001 139 768.001 c 256
  163 795.001 201 822.001 229 822.001 c 256
 EndSplineSet
-Validated: 524289
-Substitution2: "cv01CharacterVariants01lookup5 subtable" aring.cv01
+Substitution2: "cv01CharacterVariants01lookup5 subtable" uniE03E
 EndChar

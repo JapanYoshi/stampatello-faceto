@@ -1,5 +1,5 @@
 StartChar: zero
-Encoding: 19 48 19
+Encoding: 48 48 19
 GlifName: zero
 Width: 516
 VWidth: 0
@@ -40,5 +40,5 @@ SplineSet
  254 170 232 158 210 158 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "lnumLiningFigureslookup8 subtable" zero.lnum
+Substitution2: "lnumLiningFigureslookup8 subtable" uniE075
 EndChar

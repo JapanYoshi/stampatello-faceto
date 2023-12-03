@@ -1,5 +1,5 @@
 StartChar: uni20AF
-Encoding: 1091 8367 1091
+Encoding: 8367 8367 1091
 GlifName: uni20A_F_
 Width: 1232
 VWidth: 0
@@ -73,5 +73,5 @@ SplineSet
  820.997 461 814.997 314 814.997 213 c 256
  814.997 177 820.997 142 825.997 107 c 257
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

@@ -1,9 +1,11 @@
 StartChar: oe
-Encoding: 275 339 275
+Encoding: 339 339 275
 GlifName: oe
 Width: 788
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 408 31 basechar 0
+AnchorPoint: "top" 390 603 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -48,5 +50,4 @@ SplineSet
  479 463 443 408 443 374 c 256
  443 361 447 334 451 308 c 257
 EndSplineSet
-Validated: 1
 EndChar

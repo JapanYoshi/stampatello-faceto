@@ -1,0 +1,37 @@
+StartChar: u1047B
+Encoding: 66683 66683 1272
+Width: 776
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+270 364 m 0
+ 275 364 277 363 279 361 c 0
+ 292 350 293 314 293 286 c 0
+ 293 196 296 91 414 91 c 0
+ 466 91 520 134 562 183 c 0
+ 614 246 636 315 636 381 c 0
+ 636 425 628 486 571 486 c 0
+ 543 486 535 469 511 469 c 0
+ 480 469 455 486 455 502 c 0
+ 455 536 503 575 556 575 c 0
+ 637 575 674 553 703 501 c 0
+ 714 479 717 425 717 381 c 0
+ 717 301 688 205 619 128 c 0
+ 560 62 487 -1 384 -1 c 0
+ 240 -1 211 134 211 251 c 2
+ 211 268 l 1
+ 195 265 l 2
+ 185 263 168 263 154 263 c 0
+ 122 263 97 269 82 278 c 0
+ 51 297 35 335 35 369 c 0
+ 35 413 67 484 89 504 c 0
+ 113 526 142 544 168 544 c 0
+ 219 544 249 532 249 512 c 0
+ 249 502 242 493 218 485 c 0
+ 177 473 121 437 121 372 c 0
+ 121 352 158 342 173 342 c 0
+ 201 342 244 364 270 364 c 0
+EndSplineSet
+Kerns2: 119 -19 "kernlookup0 subtable" 34 -50 "kernlookup0 subtable" 10 -20 "kernlookup0 subtable" 17 -80 "kernlookup0 subtable" 1276 -50 "kernlookup0 subtable" 1273 -80 "kernlookup0 subtable" 1269 -54 "kernlookup0 subtable" 1271 -18 "kernlookup0 subtable" 1266 -50 "kernlookup0 subtable" 1253 -55 "kernlookup0 subtable" 1250 -30 "kernlookup0 subtable" 1238 -71 "kernlookup0 subtable" 1247 -219 "kernlookup0 subtable" 1237 -152 "kernlookup0 subtable" 1236 -46 "kernlookup0 subtable" 1234 -35 "kernlookup0 subtable" 1230 -60 "kernlookup0 subtable" 1229 -270 "kernlookup0 subtable"
+EndChar

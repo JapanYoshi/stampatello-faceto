@@ -1,0 +1,20 @@
+StartChar: u10466
+Encoding: 66662 66662 1251
+Width: 203
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+66 536 m 0
+ 73 546 81 550 102 550 c 0
+ 119 550 132 534 132 523 c 0
+ 132 441 132 413 136 318 c 0
+ 140 210 153 138 153 52 c 0
+ 153 18 138 -2 115 -2 c 0
+ 87 -2 80 9 75 46 c 0
+ 72 69 69 95 67 122 c 0
+ 61 194 50 308 50 378 c 0
+ 50 458 53 517 66 536 c 0
+EndSplineSet
+Kerns2: 1247 -171 "kernlookup0 subtable" 1237 -130 "kernlookup0 subtable" 1236 -32 "kernlookup0 subtable" 1229 -120 "kernlookup0 subtable"
+EndChar

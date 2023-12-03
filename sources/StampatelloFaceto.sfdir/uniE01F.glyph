@@ -1,0 +1,31 @@
+StartChar: uniE01F
+Encoding: 57375 57375 1277
+Width: 798
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+307 551 m 0
+ 416 551 459 488 499 234 c 0
+ 511 158 525 86 582 86 c 0
+ 620 86 668 146 683 162 c 0
+ 693 172 704 181 717 181 c 0
+ 729 181 763 173 763 163 c 0
+ 763 156 760 144 747 125 c 0
+ 695 47 630 -6 579 -6 c 0
+ 477 -6 436 104 418 216 c 0
+ 387 414 357 474 297 474 c 0
+ 180 474 139 405 139 297 c 0
+ 139 200 140 140 141 115 c 0
+ 141 103 146 87 146 60 c 0
+ 146 22 136 1 108 1 c 0
+ 95 1 80 12 70 31 c 0
+ 60.6923076923 48.7692307692 59.9763313609 131.692307692 59.9763313609 234.938097406 c 0
+ 59.9763313609 253.710059172 60 273.153846154 60 293 c 0
+ 60 295.789473684 59.9972299169 298.529085873 59.9972299169 301.226272051 c 0
+ 59.9972299169 349.775623269 60.8947368421 384.578947368 95 449 c 0
+ 121 499 178 551 307 551 c 0
+EndSplineSet
+Kerns2: 34 -99 "kernlookup0 subtable" 10 -63 "kernlookup0 subtable" 1276 -102 "kernlookup0 subtable" 1275 -23 "kernlookup0 subtable" 1270 -40 "kernlookup0 subtable" 1268 -40 "kernlookup0 subtable" 1258 -50 "kernlookup0 subtable" 1267 -61 "kernlookup0 subtable" 1256 -84 "kernlookup0 subtable" 1255 -160 "kernlookup0 subtable" 1264 -116 "kernlookup0 subtable" 1260 -124 "kernlookup0 subtable" 1259 -42 "kernlookup0 subtable" 1248 -40 "kernlookup0 subtable" 1247 -184 "kernlookup0 subtable" 1237 -220 "kernlookup0 subtable" 1246 -110 "kernlookup0 subtable" 1236 -40 "kernlookup0 subtable" 1233 -15 "kernlookup0 subtable" 1230 -230 "kernlookup0 subtable" 1229 -280 "kernlookup0 subtable"
+Ligature2: "ligaStandardLigatureslookup0 subtable" u10469 u1046F
+EndChar

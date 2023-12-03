@@ -1,7 +1,7 @@
 StartChar: uni041F
-Encoding: 659 1055 659
+Encoding: 1055 1055 659
 GlifName: uni041F_
-Width: 698
+Width: 725
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -54,5 +54,5 @@ SplineSet
  527 819 515 818 502 818 c 256
  470 818 414 822 382 822 c 256
 EndSplineSet
-Validated: 524289
+Kerns2: 715 94 "kernlookup0 subtable" 631 20 "kernlookup0 subtable"
 EndChar

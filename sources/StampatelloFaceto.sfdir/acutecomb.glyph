@@ -1,9 +1,10 @@
 StartChar: acutecomb
-Encoding: 511 769 511
+Encoding: 769 769 511
 GlifName: acutecomb
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "top" -300 880 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17,5 +18,4 @@ SplineSet
  -400 972 -359 1007 -319 1039 c 256
  -281 1070 -244 1102 -218 1120 c 256
 EndSplineSet
-Validated: 33
 EndChar

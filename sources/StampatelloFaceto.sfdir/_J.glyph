@@ -1,9 +1,11 @@
 StartChar: J
-Encoding: 45 74 45
+Encoding: 74 74 45
 GlifName: J_
-Width: 678
+Width: 686
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 332 41 basechar 0
+AnchorPoint: "top" 364 899 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -37,6 +39,5 @@ SplineSet
  557 54 434 6 334 6 c 256
  244 6 216 14 176 42 c 256
 EndSplineSet
-Validated: 524289
 Kerns2: 45 -17 "kernlookup0 subtable"
 EndChar

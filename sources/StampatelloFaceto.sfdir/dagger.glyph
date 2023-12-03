@@ -1,5 +1,5 @@
 StartChar: dagger
-Encoding: 1068 8224 1068
+Encoding: 8224 8224 1068
 GlifName: dagger
 Width: 738
 VWidth: 0
@@ -42,5 +42,5 @@ SplineSet
  356 619 351 688 349 731 c 256
  345 781 340 788 340 835 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

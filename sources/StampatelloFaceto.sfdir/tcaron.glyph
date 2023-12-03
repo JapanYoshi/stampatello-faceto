@@ -1,5 +1,5 @@
 StartChar: tcaron
-Encoding: 293 357 293
+Encoding: 357 357 293
 GlifName: tcaron
 Width: 602
 VWidth: 0
@@ -48,5 +48,5 @@ SplineSet
  34 522 50 542 82 542 c 256
  92 542 100 540 106 540 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

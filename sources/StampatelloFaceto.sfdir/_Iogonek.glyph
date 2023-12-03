@@ -1,5 +1,5 @@
 StartChar: Iogonek
-Encoding: 238 302 238
+Encoding: 302 302 238
 GlifName: I_ogonek
 Width: 626
 VWidth: 0
@@ -55,5 +55,5 @@ SplineSet
  556 92 573 81 573 52 c 256
  573 35 537 18 514 -3 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

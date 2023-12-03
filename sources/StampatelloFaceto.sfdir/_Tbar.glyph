@@ -1,5 +1,5 @@
 StartChar: Tbar
-Encoding: 294 358 294
+Encoding: 358 358 294
 GlifName: T_bar
 Width: 768
 VWidth: 0
@@ -62,5 +62,5 @@ SplineSet
  444 338 l 257
  433 337 422 337 410 336 c 256
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar

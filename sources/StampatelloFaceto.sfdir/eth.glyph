@@ -1,9 +1,11 @@
 StartChar: eth
-Encoding: 176 240 176
+Encoding: 240 240 176
 GlifName: eth
 Width: 612
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 320 57 basechar 0
+AnchorPoint: "top" 340 959 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -57,5 +59,4 @@ SplineSet
  306 456 246 414 228 388 c 256
  210 362 190 316 190 276 c 256
 EndSplineSet
-Validated: 524289
 EndChar

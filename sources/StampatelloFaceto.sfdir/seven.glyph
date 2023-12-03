@@ -1,5 +1,5 @@
 StartChar: seven
-Encoding: 26 55 26
+Encoding: 55 55 26
 GlifName: seven
 Width: 560
 VWidth: 0
@@ -39,5 +39,5 @@ SplineSet
  320 50 356 160 366 202 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "lnumLiningFigureslookup8 subtable" seven.lnum
+Substitution2: "lnumLiningFigureslookup8 subtable" uniE07C
 EndChar

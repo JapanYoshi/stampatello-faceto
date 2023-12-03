@@ -1,5 +1,5 @@
 StartChar: uni045F
-Encoding: 723 1119 723
+Encoding: 1119 1119 723
 GlifName: uni045F_
 Width: 560
 VWidth: 0
@@ -50,5 +50,6 @@ SplineSet
  428.586 86.7861 428.828 96.7744 428.828 107.159 c 256
  428.828 132.23 427.414 159.615 426 178 c 257
 EndSplineSet
-Validated: 524289
+Validated: 1
+Kerns2: 662 -132 "kernlookup0 subtable" 652 39 "kernlookup0 subtable" 650 -59 "kernlookup0 subtable" 643 21 "kernlookup0 subtable" 639 -50 "kernlookup0 subtable" 630 -28 "kernlookup0 subtable"
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni1F7D
-Encoding: 934 8061 934
+Encoding: 8061 8061 934
 GlifName: uni1F_7D_
 Width: 726
 VWidth: 0
@@ -51,5 +51,5 @@ SplineSet
  658 86 590 1 525 1 c 256
  455 1 390 85 363 144 c 257
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

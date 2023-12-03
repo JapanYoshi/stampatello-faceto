@@ -1,7 +1,7 @@
 StartChar: Sigma
-Encoding: 561 931 561
+Encoding: 931 931 561
 GlifName: S_igma
-Width: 645
+Width: 675
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -46,5 +46,4 @@ SplineSet
  597 923 612 917 612 896 c 256
  612 892 611 887 610 882 c 256
 EndSplineSet
-Validated: 1
 EndChar

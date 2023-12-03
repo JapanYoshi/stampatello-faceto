@@ -1,5 +1,5 @@
 StartChar: uni1F71
-Encoding: 922 8049 922
+Encoding: 8049 8049 922
 GlifName: uni1F_71
 Width: 622
 VWidth: 0
@@ -51,6 +51,6 @@ SplineSet
  298 544 329 491 354 452 c 256
  375 418 390 386 407 349 c 257
 EndSplineSet
-Validated: 524289
-Substitution2: "cv01CharacterVariants01lookup5 subtable" uni1F71.cv01
+Validated: 1
+Substitution2: "cv01CharacterVariants01lookup5 subtable" uniE05E
 EndChar

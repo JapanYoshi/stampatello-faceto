@@ -1,5 +1,5 @@
 StartChar: quotesingle
-Encoding: 10 39 10
+Encoding: 39 39 10
 GlifName: quotesingle
 Width: 185
 VWidth: 0
@@ -22,4 +22,5 @@ SplineSet
  45 868 47 874 49 882 c 256
 EndSplineSet
 Validated: 1
+Kerns2: 655 -55 "kernlookup0 subtable" 648 -80 "kernlookup0 subtable" 644 -80 "kernlookup0 subtable" 637 -95 "kernlookup0 subtable" 636 -70 "kernlookup0 subtable" 1279 -17 "kernlookup0 subtable" 1277 -48 "kernlookup0 subtable" 1274 -7 "kernlookup0 subtable" 1273 -70 "kernlookup0 subtable" 1272 -70 "kernlookup0 subtable" 1271 -89 "kernlookup0 subtable" 1270 -34 "kernlookup0 subtable" 1269 -80 "kernlookup0 subtable" 1268 -77 "kernlookup0 subtable" 1258 -56 "kernlookup0 subtable" 1267 -40 "kernlookup0 subtable" 1257 -80 "kernlookup0 subtable" 1266 -85 "kernlookup0 subtable" 1256 -50 "kernlookup0 subtable" 1265 -73 "kernlookup0 subtable" 1255 -60 "kernlookup0 subtable" 1264 -15 "kernlookup0 subtable" 1254 -78 "kernlookup0 subtable" 1263 -6 "kernlookup0 subtable" 1253 -104 "kernlookup0 subtable" 1262 -52 "kernlookup0 subtable" 1252 -30 "kernlookup0 subtable" 1261 -33 "kernlookup0 subtable" 1260 -60 "kernlookup0 subtable" 1250 -87 "kernlookup0 subtable" 1259 -60 "kernlookup0 subtable" 1249 -100 "kernlookup0 subtable" 1248 -46 "kernlookup0 subtable" 1247 -160 "kernlookup0 subtable" 1242 -75 "kernlookup0 subtable" 1246 -60 "kernlookup0 subtable" 1245 -26 "kernlookup0 subtable" 1244 -65 "kernlookup0 subtable" 1243 -88 "kernlookup0 subtable" 1241 -46 "kernlookup0 subtable"
 EndChar

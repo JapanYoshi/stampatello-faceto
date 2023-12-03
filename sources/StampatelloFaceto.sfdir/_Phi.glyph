@@ -1,7 +1,7 @@
 StartChar: Phi
-Encoding: 564 934 564
+Encoding: 934 934 564
 GlifName: P_hi
-Width: 714
+Width: 720
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -48,5 +48,4 @@ SplineSet
  145 689 182 727 249 727 c 256
  270 727 292 723 310 714 c 257
 EndSplineSet
-Validated: 1
 EndChar

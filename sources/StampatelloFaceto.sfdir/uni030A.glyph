@@ -1,9 +1,10 @@
 StartChar: uni030A
-Encoding: 519 778 519
+Encoding: 778 778 519
 GlifName: uni030A_
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "top" -380 810 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -24,5 +25,4 @@ SplineSet
  -443 846 -477 898 -482 956 c 257
  -488 958 -504 976 -504 992 c 256
 EndSplineSet
-Validated: 1
 EndChar

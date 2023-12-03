@@ -1,0 +1,24 @@
+StartChar: u10474
+Encoding: 66676 66676 1265
+Width: 522
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+243 14 m 0
+ 138 14 42 95 42 204 c 0
+ 42 264 63 365 91 419 c 0
+ 139 499 222 553 290 553 c 0
+ 341 553 391 514 427 459 c 0
+ 465 400 480 305 480 263 c 0
+ 480 139 377 14 243 14 c 0
+389 265 m 0
+ 389 316 376 371 351 409 c 0
+ 340 426 310 463 285 463 c 0
+ 263 463 183 417 156 360 c 0
+ 131 307 123 252 123 216 c 0
+ 123 146 180 104 256 104 c 0
+ 330 104 389 193 389 265 c 0
+EndSplineSet
+Kerns2: 34 -48 "kernlookup0 subtable" 10 -50 "kernlookup0 subtable" 17 -37 "kernlookup0 subtable" 1276 -64 "kernlookup0 subtable" 1273 -9 "kernlookup0 subtable" 1269 -19 "kernlookup0 subtable" 1267 -32 "kernlookup0 subtable" 1266 -15 "kernlookup0 subtable" 1256 -12 "kernlookup0 subtable" 1255 -15 "kernlookup0 subtable" 1264 -50 "kernlookup0 subtable" 1238 -60 "kernlookup0 subtable" 1247 -220 "kernlookup0 subtable" 1237 -163 "kernlookup0 subtable" 1246 -10 "kernlookup0 subtable" 1236 -50 "kernlookup0 subtable" 1245 -6 "kernlookup0 subtable" 1244 -13 "kernlookup0 subtable" 1234 -28 "kernlookup0 subtable" 1241 -10 "kernlookup0 subtable" 1230 -70 "kernlookup0 subtable" 1229 -260 "kernlookup0 subtable"
+EndChar

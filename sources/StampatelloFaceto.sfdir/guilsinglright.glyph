@@ -1,5 +1,5 @@
 StartChar: guilsinglright
-Encoding: 1078 8250 1078
+Encoding: 8250 8250 1078
 GlifName: guilsinglright
 Width: 396
 VWidth: 0
@@ -21,5 +21,5 @@ SplineSet
  182 213 224 245 238 267 c 257
 EndSplineSet
 Validated: 1
-Substitution2: "Casesensitiveforms subtable" guilsinglright.case
+Substitution2: "Casesensitiveforms subtable" uniE01C
 EndChar

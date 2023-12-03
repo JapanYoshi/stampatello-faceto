@@ -1,5 +1,5 @@
 StartChar: bracketright
-Encoding: 64 93 64
+Encoding: 93 93 64
 GlifName: bracketright
 Width: 502
 VWidth: 0
@@ -42,5 +42,5 @@ SplineSet
 EndSplineSet
 Validated: 1
 Kerns2: 62 -23 "kernlookup0 subtable" 77 86 "kernlookup0 subtable" 94 -34 "kernlookup0 subtable"
-Substitution2: "Casesensitiveforms subtable" bracketright.case
+Substitution2: "Casesensitiveforms subtable" uniE017
 EndChar

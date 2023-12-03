@@ -1,9 +1,11 @@
 StartChar: D
-Encoding: 39 68 39
+Encoding: 68 68 39
 GlifName: D_
-Width: 682
+Width: 694
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 330 91 basechar 0
+AnchorPoint: "top" 326 925 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -48,6 +50,5 @@ SplineSet
  62.9688 843.805 62.5029 845.941 62.5029 848.312 c 256
  62.5029 864.332 83.8047 891.031 96 898 c 256
 EndSplineSet
-Validated: 524289
 Kerns2: 12 -45 "kernlookup0 subtable" 36 -46 "kernlookup0 subtable" 40 -21 "kernlookup0 subtable" 44 -55 "kernlookup0 subtable" 45 -40 "kernlookup0 subtable" 55 -45 "kernlookup0 subtable" 57 -27 "kernlookup0 subtable" 58 -17 "kernlookup0 subtable" 59 -46 "kernlookup0 subtable" 60 -24 "kernlookup0 subtable" 61 -69 "kernlookup0 subtable" 64 -39 "kernlookup0 subtable" 70 -22 "kernlookup0 subtable" 71 -26 "kernlookup0 subtable" 74 -27 "kernlookup0 subtable" 77 14 "kernlookup0 subtable" 84 -25 "kernlookup0 subtable" 96 -32 "kernlookup0 subtable" 388 -25 "kernlookup0 subtable"
 EndChar

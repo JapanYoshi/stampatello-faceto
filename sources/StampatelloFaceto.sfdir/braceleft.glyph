@@ -1,9 +1,9 @@
 StartChar: braceleft
-Encoding: 94 123 94
+Encoding: 123 123 94
 GlifName: braceleft
 Width: 458
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -40,7 +40,6 @@ SplineSet
  256 480 276 455 276 435 c 256
  276 391 233 352 192 332 c 257
 EndSplineSet
-Validated: 524289
 Kerns2: 94 -120 "kernlookup0 subtable"
-Substitution2: "Casesensitiveforms subtable" braceleft.case
+Substitution2: "Casesensitiveforms subtable" uniE018
 EndChar

@@ -1,5 +1,5 @@
 StartChar: ij
-Encoding: 243 307 243
+Encoding: 307 307 243
 GlifName: ij
 Width: 558
 VWidth: 0
@@ -50,6 +50,6 @@ SplineSet
  140.382 388.401 137.455 352.805 137.455 317.208 c 256
  137.455 308.805 137.618 300.401 138 291.998 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "ligaDutch subtable" i j
 EndChar

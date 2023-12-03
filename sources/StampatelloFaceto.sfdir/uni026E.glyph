@@ -1,5 +1,5 @@
 StartChar: uni026E
-Encoding: 417 622 417
+Encoding: 622 622 417
 GlifName: uni026E_
 Width: 580
 VWidth: 0
@@ -45,5 +45,5 @@ SplineSet
  404 418 386 420 360 420 c 256
  306 420 247 407 142 381 c 257
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

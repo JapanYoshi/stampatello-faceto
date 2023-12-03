@@ -1,5 +1,5 @@
 StartChar: uni1FE3
-Encoding: 1029 8163 1029
+Encoding: 8163 8163 1029
 GlifName: uni1F_E_3
 Width: 554
 VWidth: 0
@@ -55,5 +55,5 @@ SplineSet
  423 473.001 402 492.001 402 514.001 c 256
  402 525.001 407 536.001 421 549.001 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

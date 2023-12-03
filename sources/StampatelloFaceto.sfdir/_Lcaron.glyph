@@ -1,5 +1,5 @@
 StartChar: Lcaron
-Encoding: 253 317 253
+Encoding: 317 317 253
 GlifName: L_caron
 Width: 670
 VWidth: 0
@@ -41,5 +41,5 @@ SplineSet
  86 784 86 800 86 828 c 256
  86 848 94 866 104 876 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

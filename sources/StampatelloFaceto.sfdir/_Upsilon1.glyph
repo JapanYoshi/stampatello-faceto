@@ -1,5 +1,5 @@
 StartChar: Upsilon1
-Encoding: 608 978 608
+Encoding: 978 978 608
 GlifName: U_psilon1
 Width: 1039
 VWidth: 0
@@ -46,5 +46,5 @@ SplineSet
  100 825 115 844 134 859 c 256
  150 873 217 919 239 922 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

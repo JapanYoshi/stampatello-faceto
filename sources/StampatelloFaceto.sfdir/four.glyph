@@ -1,5 +1,5 @@
 StartChar: four
-Encoding: 23 52 23
+Encoding: 52 52 23
 GlifName: four
 Width: 554
 VWidth: 0
@@ -42,6 +42,6 @@ SplineSet
  520 98 544 72 544 62 c 256
  544 36 518 16 464 10 c 256
 EndSplineSet
-Validated: 524289
-Substitution2: "lnumLiningFigureslookup8 subtable" four.lnum
+Validated: 1
+Substitution2: "lnumLiningFigureslookup8 subtable" uniE079
 EndChar

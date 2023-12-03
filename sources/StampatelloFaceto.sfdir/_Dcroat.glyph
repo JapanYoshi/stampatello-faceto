@@ -1,9 +1,11 @@
 StartChar: Dcroat
-Encoding: 208 272 208
+Encoding: 272 272 208
 GlifName: D_croat
 Width: 772
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 372 53 basechar 0
+AnchorPoint: "top" 396 943 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -49,5 +51,4 @@ SplineSet
  137 755 127 763 121 768 c 256
  106 784 103 795 103 812 c 256
 EndSplineSet
-Validated: 1
 EndChar

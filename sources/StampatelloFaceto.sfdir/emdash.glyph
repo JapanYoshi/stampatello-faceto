@@ -1,5 +1,5 @@
 StartChar: emdash
-Encoding: 1058 8212 1058
+Encoding: 8212 8212 1058
 GlifName: emdash
 Width: 872
 VWidth: 0
@@ -26,6 +26,6 @@ SplineSet
  250 350 420 366 666 382 c 256
  718 384 752 390 766 396 c 256
 EndSplineSet
-Validated: 524289
-Substitution2: "Casesensitiveforms subtable" emdash.case
+Validated: 1
+Substitution2: "Casesensitiveforms subtable" uniE012
 EndChar

@@ -1,5 +1,5 @@
 StartChar: nine
-Encoding: 28 57 28
+Encoding: 57 57 28
 GlifName: nine
 Width: 544
 VWidth: 0
@@ -39,5 +39,5 @@ SplineSet
  386 498 420 464 448 370 c 257
 EndSplineSet
 Validated: 1
-Substitution2: "lnumLiningFigureslookup8 subtable" nine.lnum
+Substitution2: "lnumLiningFigureslookup8 subtable" uniE07E
 EndChar

@@ -1,0 +1,23 @@
+StartChar: uniE00F
+Encoding: 57359 57359 1120
+GlifName: hyphenminus.case
+Width: 410
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+404 450 m 256
+ 404 422 358 396 328 396 c 256
+ 250 396 192 398 124 402 c 256
+ 72 406 42 416 32 426 c 256
+ 22 436 16 444 16 452 c 256
+ 16 468 44 494 60 500 c 256
+ 70 502 84 504 112 504 c 256
+ 154 504 188 500 212 490 c 256
+ 234 482 272 476 326 474 c 256
+ 372 472 404 478 404 450 c 256
+EndSplineSet
+Validated: 1
+Kerns2: 662 -156 "kernlookup0 subtable" 655 -8 "kernlookup0 subtable" 652 51 "kernlookup0 subtable" 651 -10 "kernlookup0 subtable" 650 -73 "kernlookup0 subtable" 648 -40 "kernlookup0 subtable" 639 -50 "kernlookup0 subtable" 637 -133 "kernlookup0 subtable" 635 -100 "kernlookup0 subtable" 634 -100 "kernlookup0 subtable"
+EndChar

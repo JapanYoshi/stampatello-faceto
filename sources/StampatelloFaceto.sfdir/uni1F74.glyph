@@ -1,5 +1,5 @@
 StartChar: uni1F74
-Encoding: 925 8052 925
+Encoding: 8052 8052 925
 GlifName: uni1F_74
 Width: 540
 VWidth: 0
@@ -49,5 +49,5 @@ SplineSet
  72.001 153.999 64.001 254.999 64.001 300.999 c 256
  64.001 321.999 66.001 343.999 66.001 380.999 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

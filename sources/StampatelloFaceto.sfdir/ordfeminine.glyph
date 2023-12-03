@@ -1,5 +1,5 @@
 StartChar: ordfeminine
-Encoding: 106 170 106
+Encoding: 170 170 106
 GlifName: ordfeminine
 Width: 564
 VWidth: 0
@@ -52,5 +52,5 @@ SplineSet
  130 126 340 144 412 144 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "cv01CharacterVariants01lookup5 subtable" ordfeminine.cv01
+Substitution2: "cv01CharacterVariants01lookup5 subtable" uniE038
 EndChar

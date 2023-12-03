@@ -1,9 +1,11 @@
 StartChar: g
-Encoding: 74 103 74
+Encoding: 103 103 74
 GlifName: g
 Width: 521
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 270 -213 basechar 0
+AnchorPoint: "top" 262 625 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -40,7 +42,6 @@ SplineSet
  133 291 137 284 151 284 c 256
  224 284 269 326 356 421 c 257
 EndSplineSet
-Validated: 1
 Kerns2: 12 -94 "kernlookup0 subtable" 34 -73 "kernlookup0 subtable" 41 -25 "kernlookup0 subtable" 44 -32 "kernlookup0 subtable" 45 -16 "kernlookup0 subtable" 51 -39 "kernlookup0 subtable" 55 -152 "kernlookup0 subtable" 57 -78 "kernlookup0 subtable" 58 -52 "kernlookup0 subtable" 59 -123 "kernlookup0 subtable" 60 -130 "kernlookup0 subtable" 61 -28 "kernlookup0 subtable" 64 -62 "kernlookup0 subtable" 77 84 "kernlookup0 subtable" 96 -43 "kernlookup0 subtable"
-Substitution2: "cv02CharacterVariants02lookup6 subtable" g.cv02
+Substitution2: "cv02CharacterVariants02lookup6 subtable" uniE06E
 EndChar

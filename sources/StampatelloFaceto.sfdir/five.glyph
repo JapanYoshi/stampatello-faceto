@@ -1,5 +1,5 @@
 StartChar: five
-Encoding: 24 53 24
+Encoding: 53 53 24
 GlifName: five
 Width: 528
 VWidth: 0
@@ -37,6 +37,6 @@ SplineSet
  273 124 237 117 192 101 c 256
  145 85 97 72 85 72 c 256
 EndSplineSet
-Validated: 524289
-Substitution2: "lnumLiningFigureslookup8 subtable" five.lnum
+Validated: 1
+Substitution2: "lnumLiningFigureslookup8 subtable" uniE07A
 EndChar

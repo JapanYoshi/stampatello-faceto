@@ -1,5 +1,5 @@
 StartChar: uni1FAE
-Encoding: 981 8110 981
+Encoding: 8110 8110 981
 GlifName: uni1F_A_E_
 Width: 1309
 VWidth: 0
@@ -90,6 +90,6 @@ SplineSet
  497.999 109.001 541.999 106.001 579.999 110.001 c 256
  619.999 114.001 657.999 120.001 701.999 120.001 c 256
 EndSplineSet
-Validated: 524289
-Substitution2: "cv03CharacterVariants03lookup7 subtable" uni1FAE.cv03
+Validated: 1
+Substitution2: "cv03CharacterVariants03lookup7 subtable" uniE032
 EndChar

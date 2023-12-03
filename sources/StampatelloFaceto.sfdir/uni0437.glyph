@@ -1,5 +1,5 @@
 StartChar: uni0437
-Encoding: 683 1079 683
+Encoding: 1079 1079 683
 GlifName: uni0437
 Width: 484
 VWidth: 0
@@ -35,5 +35,6 @@ SplineSet
  176 216 l 258
 EndSplineSet
 Validated: 1
-Substitution2: "loclBulgarian subtable" uni0437.loclBGR
+Kerns2: 662 -170 "kernlookup0 subtable" 650 -100 "kernlookup0 subtable" 639 -80 "kernlookup0 subtable" 630 -76 "kernlookup0 subtable"
+Substitution2: "loclBulgarian subtable" uniE008
 EndChar

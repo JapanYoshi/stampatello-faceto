@@ -1,5 +1,5 @@
 StartChar: guillemotleft
-Encoding: 107 171 107
+Encoding: 171 171 107
 GlifName: guillemotleft
 Width: 546
 VWidth: 0
@@ -40,5 +40,5 @@ SplineSet
  374 388 398 408 408 418 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "Casesensitiveforms subtable" guillemotleft.case
+Substitution2: "Casesensitiveforms subtable" uniE01D
 EndChar

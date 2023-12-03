@@ -1,48 +1,11 @@
 StartChar: uni0420
-Encoding: 660 1056 660
+Encoding: 1056 1056 660
 GlifName: uni0420
-Width: 606
+Width: 622
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-SplineSet
-176 790 m 257
- 176 729 174 621 174 591 c 256
- 174 456 180 416 182 374 c 257
- 231 382 277 391 331 418 c 256
- 357 431 396 451 419 469 c 256
- 443 489 492 532 492 562 c 256
- 492 578 473 618 464 630 c 256
- 433 671 401 692 348 730 c 256
- 295 767 252 790 176 790 c 257
-314 319 m 256
- 284 307 220 295 186 290 c 257
- 186 280 187 258 188 248 c 256
- 190 218 189 182 194 156 c 256
- 204 108 224 100 224 70 c 256
- 224 36 209 -2 170 -2 c 256
- 152 -2 136 18 130 40 c 256
- 126 56 125 88 122 102 c 256
- 112 144 112 170 106 210 c 256
- 100 250 96 320 94 428 c 256
- 92 546 90 622 90 650 c 256
- 90 700 93 732 94 744 c 256
- 96 766 98 776 98 786 c 257
- 90 782 66 768 64 762 c 256
- 62 756 62 738 62 706 c 256
- 62 686 56 672 46 672 c 256
- 36 672 22 712 22 754 c 256
- 22 812 44 857 104 874 c 257
- 106 884 104 894 106 898 c 256
- 110 906 116 912 136 912 c 256
- 152 912 168 910 172 906 c 256
- 174 904 176 882 176 878 c 256
- 253 872 324 838 384 800 c 256
- 459 753 484 735 524 684 c 256
- 555 643 574 610 574 578 c 256
- 574 518 546 489 524 461 c 256
- 484 408 372 341 314 319 c 256
-EndSplineSet
-Validated: 1
+Refer: 51 80 N 1 0 0 1 0 0 3
+Kerns2: 16 -48 "kernlookup0 subtable" 10 -8 "kernlookup0 subtable" 34 -3 "kernlookup0 subtable" 15 -70 "kernlookup0 subtable" 725 -15 "kernlookup0 subtable" 724 -14 "kernlookup0 subtable" 717 -162 "kernlookup0 subtable" 715 43 "kernlookup0 subtable" 712 -25 "kernlookup0 subtable" 707 -15 "kernlookup0 subtable" 696 -23 "kernlookup0 subtable" 693 -22 "kernlookup0 subtable" 687 -140 "kernlookup0 subtable" 680 -139 "kernlookup0 subtable" 677 -50 "kernlookup0 subtable" 670 -120 "kernlookup0 subtable" 662 -80 "kernlookup0 subtable" 655 -46 "kernlookup0 subtable" 651 -24 "kernlookup0 subtable" 650 -38 "kernlookup0 subtable" 648 -93 "kernlookup0 subtable" 644 -49 "kernlookup0 subtable" 639 -75 "kernlookup0 subtable" 637 -161 "kernlookup0 subtable" 636 -60 "kernlookup0 subtable" 635 -50 "kernlookup0 subtable" 634 -50 "kernlookup0 subtable" 630 -38 "kernlookup0 subtable"
 EndChar

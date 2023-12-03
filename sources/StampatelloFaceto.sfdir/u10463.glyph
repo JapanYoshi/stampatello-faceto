@@ -1,0 +1,43 @@
+StartChar: u10463
+Encoding: 66659 66659 1248
+Width: 517
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+330 -68 m 0
+ 330 63 313 152 303 205 c 0
+ 294 251 277 330 259 364 c 1
+ 256 372 l 1
+ 251 365 l 2
+ 218 319 188 217 188 70 c 0
+ 188 42 201 -239 247 -239 c 0
+ 311 -239 330 -113 330 -68 c 0
+487 592 m 0
+ 487 585 485 580 482 578 c 0
+ 478 573 469 569 463 565 c 0
+ 445 552 363 479 317 429 c 1
+ 319 425 322 416 324 413 c 0
+ 389 306 412 56 412 -70 c 0
+ 412 -219 340 -334 246 -334 c 0
+ 217 -334 201 -325 176 -298 c 0
+ 127 -244 106 -134 106 94 c 0
+ 106 221 150 366 205 431 c 2
+ 209 436 l 1
+ 205 441 l 2
+ 191 457 168 459 156 459 c 0
+ 138 459 125 453 114 447 c 0
+ 106 443 99 440 93 440 c 0
+ 60 440 50 464 50 504 c 0
+ 50 525 58 529 86 537 c 0
+ 102 541 121 543 147 543 c 0
+ 225 543 247 527 263 503 c 2
+ 266 499 l 1
+ 299 526 317 539 357 583 c 0
+ 388 616 400 630 412 643 c 0
+ 414 646 427 648 441 648 c 0
+ 457 648 462 648 467 644 c 0
+ 474 640 487 609 487 592 c 0
+EndSplineSet
+Kerns2: 1277 -32 "kernlookup0 subtable" 1273 -47 "kernlookup0 subtable" 1272 -66 "kernlookup0 subtable" 1271 -47 "kernlookup0 subtable" 1269 -38 "kernlookup0 subtable" 1267 -47 "kernlookup0 subtable" 1257 -57 "kernlookup0 subtable" 1266 -47 "kernlookup0 subtable" 1265 -28 "kernlookup0 subtable" 1255 -47 "kernlookup0 subtable" 1254 -38 "kernlookup0 subtable" 1253 -28 "kernlookup0 subtable" 1262 -10 "kernlookup0 subtable" 1252 -8 "kernlookup0 subtable" 1260 -29 "kernlookup0 subtable" 1250 -27 "kernlookup0 subtable" 1259 -31 "kernlookup0 subtable" 1249 -47 "kernlookup0 subtable" 1248 -11 "kernlookup0 subtable" 1248 -1 "kernlookup0 subtable" 1238 -29 "kernlookup0 subtable" 1247 -110 "kernlookup0 subtable" 1237 -70 "kernlookup0 subtable" 1232 -56 "kernlookup0 subtable" 1236 -34 "kernlookup0 subtable" 1245 -29 "kernlookup0 subtable" 1235 -33 "kernlookup0 subtable" 1244 -38 "kernlookup0 subtable" 1234 -29 "kernlookup0 subtable" 1243 -57 "kernlookup0 subtable" 1233 -66 "kernlookup0 subtable" 1241 -19 "kernlookup0 subtable" 1231 -70 "kernlookup0 subtable" 1229 -90 "kernlookup0 subtable"
+EndChar

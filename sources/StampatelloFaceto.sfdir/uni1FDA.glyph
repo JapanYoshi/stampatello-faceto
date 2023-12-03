@@ -1,5 +1,5 @@
 StartChar: uni1FDA
-Encoding: 1021 8154 1021
+Encoding: 8154 8154 1021
 GlifName: uni1F_D_A_
 Width: 826
 VWidth: 0
@@ -56,5 +56,5 @@ SplineSet
  379.001 95.999 497.001 86.999 527.001 86.999 c 256
  595.001 86.999 638.001 100.999 700.001 100.999 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

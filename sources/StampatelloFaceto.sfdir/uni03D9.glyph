@@ -1,5 +1,5 @@
 StartChar: uni03D9
-Encoding: 614 985 614
+Encoding: 985 985 614
 GlifName: uni03D_9
 Width: 628
 VWidth: 0
@@ -44,5 +44,5 @@ SplineSet
  123.001 427 168.001 446 234.001 452 c 257
  277.001 469 336.001 488 392.001 488 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

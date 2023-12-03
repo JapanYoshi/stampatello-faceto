@@ -1,5 +1,5 @@
 StartChar: uni1FE6
-Encoding: 1032 8166 1032
+Encoding: 8166 8166 1032
 GlifName: uni1F_E_6
 Width: 554
 VWidth: 0
@@ -51,5 +51,5 @@ SplineSet
  423 473 402 492 402 514 c 256
  402 525 407 536 421 549 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

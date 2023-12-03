@@ -1,5 +1,5 @@
 StartChar: plusminus
-Encoding: 113 177 113
+Encoding: 177 177 113
 GlifName: plusminus
 Width: 606
 VWidth: 0
@@ -54,5 +54,5 @@ SplineSet
  232 535 217 535 202 535 c 256
  191 535 181 535 170 536 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

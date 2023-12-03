@@ -1,0 +1,26 @@
+StartChar: u1045A
+Encoding: 66650 66650 1239
+Width: 498
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+118 588 m 0
+ 126 588 143 576 143 528 c 2
+ 143 296 l 2
+ 143 155 147 -81 187 -200 c 0
+ 194 -220 210 -233 222 -233 c 0
+ 270 -233 323 -180 355 -148 c 0
+ 385 -118 403 -112 417 -112 c 0
+ 429 -112 435 -122 435 -144 c 0
+ 435 -158 431 -172 425 -188 c 0
+ 409 -224 355 -270 317 -296 c 0
+ 283 -318 261 -330 219 -330 c 0
+ 175 -330 149 -306 125 -272 c 0
+ 101 -236 103 -222 95 -190 c 0
+ 81 -142 60 114 60 280 c 0
+ 60 420 60 504 64 530 c 0
+ 68 556 78 588 118 588 c 0
+EndSplineSet
+Kerns2: 1279 -190 "kernlookup0 subtable" 1277 -200 "kernlookup0 subtable" 119 -150 "kernlookup0 subtable" 34 -210 "kernlookup0 subtable" 10 -160 "kernlookup0 subtable" 1276 -280 "kernlookup0 subtable" 1275 -270 "kernlookup0 subtable" 1274 -270 "kernlookup0 subtable" 1273 -260 "kernlookup0 subtable" 1272 -280 "kernlookup0 subtable" 1271 -277 "kernlookup0 subtable" 1270 -280 "kernlookup0 subtable" 1269 -280 "kernlookup0 subtable" 1268 -270 "kernlookup0 subtable" 1258 -270 "kernlookup0 subtable" 1267 -260 "kernlookup0 subtable" 1257 -290 "kernlookup0 subtable" 1266 -250 "kernlookup0 subtable" 1256 -280 "kernlookup0 subtable" 1265 -260 "kernlookup0 subtable" 1255 -290 "kernlookup0 subtable" 1264 -280 "kernlookup0 subtable" 1254 -240 "kernlookup0 subtable" 1263 -220 "kernlookup0 subtable" 1253 -180 "kernlookup0 subtable" 1262 -180 "kernlookup0 subtable" 1252 -220 "kernlookup0 subtable" 1261 -260 "kernlookup0 subtable" 1251 -160 "kernlookup0 subtable" 1260 -290 "kernlookup0 subtable" 1250 -280 "kernlookup0 subtable" 1259 -290 "kernlookup0 subtable" 1249 -290 "kernlookup0 subtable" 1248 -100 "kernlookup0 subtable" 1238 -280 "kernlookup0 subtable" 1237 -330 "kernlookup0 subtable" 1246 -110 "kernlookup0 subtable" 1236 -250 "kernlookup0 subtable" 1245 -160 "kernlookup0 subtable" 1235 -250 "kernlookup0 subtable" 1244 -116 "kernlookup0 subtable" 1234 -273 "kernlookup0 subtable" 1243 -100 "kernlookup0 subtable" 1233 -262 "kernlookup0 subtable" 1232 -270 "kernlookup0 subtable" 1231 -260 "kernlookup0 subtable" 1230 -280 "kernlookup0 subtable" 1229 -276 "kernlookup0 subtable"
+EndChar

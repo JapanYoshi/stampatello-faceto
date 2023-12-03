@@ -1,5 +1,5 @@
 StartChar: uni0280
-Encoding: 435 640 435
+Encoding: 640 640 435
 GlifName: uni0280
 Width: 512
 VWidth: 0
@@ -50,5 +50,5 @@ SplineSet
  252 462.001 238 448.001 228 430.001 c 256
  214 403.001 190 367.001 161 321.001 c 257
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

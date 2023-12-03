@@ -1,9 +1,11 @@
 StartChar: T
-Encoding: 55 84 55
+Encoding: 84 84 55
 GlifName: T_
-Width: 730
+Width: 740
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 400 41 basechar 0
+AnchorPoint: "top" 360 927 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -40,6 +42,5 @@ SplineSet
  446 878 484 880 520 882 c 256
  574 888 596 892 602 896 c 256
 EndSplineSet
-Validated: 524289
 Kerns2: 36 -113 "kernlookup0 subtable" 38 -111 "kernlookup0 subtable" 42 -137 "kernlookup0 subtable" 44 -18 "kernlookup0 subtable" 45 -93 "kernlookup0 subtable" 50 -77 "kernlookup0 subtable" 52 -67 "kernlookup0 subtable" 54 -67 "kernlookup0 subtable" 68 -180 "kernlookup0 subtable" 70 -158 "kernlookup0 subtable" 71 -215 "kernlookup0 subtable" 72 -159 "kernlookup0 subtable" 73 -143 "kernlookup0 subtable" 74 -156 "kernlookup0 subtable" 76 -34 "kernlookup0 subtable" 77 15 "kernlookup0 subtable" 80 -137 "kernlookup0 subtable" 81 -189 "kernlookup0 subtable" 82 -170 "kernlookup0 subtable" 83 -176 "kernlookup0 subtable" 84 -189 "kernlookup0 subtable" 85 -161 "kernlookup0 subtable" 86 -164 "kernlookup0 subtable" 87 -110 "kernlookup0 subtable" 88 -177 "kernlookup0 subtable" 89 -161 "kernlookup0 subtable" 90 -176 "kernlookup0 subtable" 91 -174 "kernlookup0 subtable" 92 -181 "kernlookup0 subtable" 93 -183 "kernlookup0 subtable" 94 -105 "kernlookup0 subtable" 388 -181 "kernlookup0 subtable" 404 -168 "kernlookup0 subtable"
 EndChar

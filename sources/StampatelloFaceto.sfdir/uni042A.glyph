@@ -1,7 +1,7 @@
 StartChar: uni042A
-Encoding: 670 1066 670
+Encoding: 1066 1066 670
 GlifName: uni042A_
-Width: 841
+Width: 852
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -48,5 +48,5 @@ SplineSet
  684.283 220.308 689.767 248.653 689.767 279.998 c 256
  689.767 331.971 674.691 392.189 645.997 424.003 c 256
 EndSplineSet
-Validated: 524289
+Kerns2: 662 -189 "kernlookup0 subtable" 650 -93 "kernlookup0 subtable" 635 -40 "kernlookup0 subtable" 634 -60 "kernlookup0 subtable" 630 -95 "kernlookup0 subtable"
 EndChar

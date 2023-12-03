@@ -1,9 +1,11 @@
 StartChar: Oslash
-Encoding: 152 216 152
+Encoding: 216 216 152
 GlifName: O_slash
 Width: 944
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 484 39 basechar 0
+AnchorPoint: "top" 478 961 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -68,5 +70,4 @@ SplineSet
  156 644 159 665 161 709 c 256
  161 749 177 788 230 859 c 256
 EndSplineSet
-Validated: 1
 EndChar

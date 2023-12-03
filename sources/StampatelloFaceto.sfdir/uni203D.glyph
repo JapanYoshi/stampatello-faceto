@@ -1,5 +1,5 @@
 StartChar: uni203D
-Encoding: 1080 8253 1080
+Encoding: 8253 8253 1080
 GlifName: uni203D_
 Width: 642
 VWidth: 0
@@ -43,5 +43,5 @@ SplineSet
  264 7 256 20 256 37 c 256
  256 61 263 94 271 103 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

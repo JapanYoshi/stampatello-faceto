@@ -1,5 +1,5 @@
 StartChar: Hbar
-Encoding: 230 294 230
+Encoding: 294 294 230
 GlifName: H_bar
 Width: 772
 VWidth: 0
@@ -78,5 +78,5 @@ SplineSet
  397 426.002 444 438.002 496 452.002 c 256
  513 456.002 535 463.002 554 465.002 c 257
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

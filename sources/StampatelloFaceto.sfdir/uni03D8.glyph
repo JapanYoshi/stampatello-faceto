@@ -1,5 +1,5 @@
 StartChar: uni03D8
-Encoding: 613 984 613
+Encoding: 984 984 613
 GlifName: uni03D_8
 Width: 888
 VWidth: 0
@@ -47,5 +47,5 @@ SplineSet
  132 674 177 743 213 824 c 256
  235 872 293 919 348 919 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: period
-Encoding: 17 46 17
+Encoding: 46 46 17
 GlifName: period
 Width: 236
 VWidth: 0
@@ -19,5 +19,5 @@ SplineSet
  64 104 72 128 82 138 c 256
 EndSplineSet
 Validated: 1
-Kerns2: 12 -109 "kernlookup0 subtable" 34 -118 "kernlookup0 subtable" 38 -31 "kernlookup0 subtable" 39 -65 "kernlookup0 subtable" 40 -37 "kernlookup0 subtable" 41 -32 "kernlookup0 subtable" 42 -29 "kernlookup0 subtable" 45 -33 "kernlookup0 subtable" 46 -21 "kernlookup0 subtable" 50 -80 "kernlookup0 subtable" 51 -45 "kernlookup0 subtable" 52 -114 "kernlookup0 subtable" 55 -168 "kernlookup0 subtable" 56 -54 "kernlookup0 subtable" 57 -144 "kernlookup0 subtable" 58 -117 "kernlookup0 subtable" 59 -59 "kernlookup0 subtable" 60 -160 "kernlookup0 subtable" 64 -120 "kernlookup0 subtable" 73 -74 "kernlookup0 subtable" 74 -40 "kernlookup0 subtable" 87 -133 "kernlookup0 subtable" 89 -79 "kernlookup0 subtable" 91 -23 "kernlookup0 subtable" 96 -103 "kernlookup0 subtable"
+Kerns2: 1279 -11 "kernlookup0 subtable" 1275 -44 "kernlookup0 subtable" 1276 -104 "kernlookup0 subtable" 1272 -85 "kernlookup0 subtable" 1270 -72 "kernlookup0 subtable" 1268 -100 "kernlookup0 subtable" 1258 -34 "kernlookup0 subtable" 1267 -44 "kernlookup0 subtable" 1257 -51 "kernlookup0 subtable" 1256 -99 "kernlookup0 subtable" 1265 -22 "kernlookup0 subtable" 1255 -81 "kernlookup0 subtable" 1264 -85 "kernlookup0 subtable" 1263 -50 "kernlookup0 subtable" 1262 -36 "kernlookup0 subtable" 1252 -35 "kernlookup0 subtable" 1261 -60 "kernlookup0 subtable" 1260 -81 "kernlookup0 subtable" 1259 -60 "kernlookup0 subtable" 1249 -32 "kernlookup0 subtable" 1238 -4 "kernlookup0 subtable" 1237 -270 "kernlookup0 subtable" 1232 -6 "kernlookup0 subtable" 1236 -83 "kernlookup0 subtable" 1235 -32 "kernlookup0 subtable" 1234 -24 "kernlookup0 subtable" 1233 -50 "kernlookup0 subtable" 1231 -46 "kernlookup0 subtable" 1230 -130 "kernlookup0 subtable" 1229 -140 "kernlookup0 subtable" 12 -109 "kernlookup0 subtable" 34 -118 "kernlookup0 subtable" 38 -31 "kernlookup0 subtable" 39 -65 "kernlookup0 subtable" 40 -37 "kernlookup0 subtable" 41 -32 "kernlookup0 subtable" 42 -29 "kernlookup0 subtable" 45 -33 "kernlookup0 subtable" 46 -21 "kernlookup0 subtable" 50 -80 "kernlookup0 subtable" 51 -45 "kernlookup0 subtable" 52 -114 "kernlookup0 subtable" 55 -168 "kernlookup0 subtable" 56 -54 "kernlookup0 subtable" 57 -144 "kernlookup0 subtable" 58 -117 "kernlookup0 subtable" 59 -59 "kernlookup0 subtable" 60 -160 "kernlookup0 subtable" 64 -120 "kernlookup0 subtable" 73 -74 "kernlookup0 subtable" 74 -40 "kernlookup0 subtable" 87 -133 "kernlookup0 subtable" 89 -79 "kernlookup0 subtable" 91 -23 "kernlookup0 subtable" 96 -103 "kernlookup0 subtable"
 EndChar

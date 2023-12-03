@@ -1,9 +1,10 @@
 StartChar: aogonek
-Encoding: 197 261 197
+Encoding: 261 261 197
 GlifName: aogonek
 Width: 528
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "top" 282 619 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -56,6 +57,5 @@ SplineSet
  483 -16 473 -22 461 -22 c 256
  454 -22 446 -19 437 -15 c 257
 EndSplineSet
-Validated: 524289
-Substitution2: "cv01CharacterVariants01lookup5 subtable" aogonek.cv01
+Substitution2: "cv01CharacterVariants01lookup5 subtable" uniE041
 EndChar

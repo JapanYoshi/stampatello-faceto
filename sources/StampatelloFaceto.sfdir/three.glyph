@@ -1,5 +1,5 @@
 StartChar: three
-Encoding: 22 51 22
+Encoding: 51 51 22
 GlifName: three
 Width: 510
 VWidth: 0
@@ -34,5 +34,5 @@ SplineSet
  136 504 176 544 250 544 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "lnumLiningFigureslookup8 subtable" three.lnum
+Substitution2: "lnumLiningFigureslookup8 subtable" uniE078
 EndChar

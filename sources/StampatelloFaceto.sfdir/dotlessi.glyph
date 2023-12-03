@@ -1,9 +1,11 @@
 StartChar: dotlessi
-Encoding: 241 305 241
+Encoding: 305 305 241
 GlifName: dotlessi
 Width: 252
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 142 33 basechar 0
+AnchorPoint: "top" 118 627 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19,5 +21,4 @@ SplineSet
  197 14 192 -3 147 -3 c 256
  118 -3 100 12 97 33 c 256
 EndSplineSet
-Validated: 1
 EndChar

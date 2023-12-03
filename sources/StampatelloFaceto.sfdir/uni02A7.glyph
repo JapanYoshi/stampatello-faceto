@@ -1,5 +1,5 @@
 StartChar: uni02A7
-Encoding: 474 679 474
+Encoding: 679 679 474
 GlifName: uni02A_7
 Width: 672
 VWidth: 0
@@ -62,5 +62,5 @@ SplineSet
  460.002 128.002 460.002 134.002 470.002 134.002 c 256
  482.002 134.002 496.002 127.002 507.002 117.002 c 257
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

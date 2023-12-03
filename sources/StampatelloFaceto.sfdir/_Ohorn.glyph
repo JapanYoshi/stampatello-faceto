@@ -1,9 +1,11 @@
 StartChar: Ohorn
-Encoding: 319 416 319
+Encoding: 416 416 319
 GlifName: O_horn
 Width: 738
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 340 31 basechar 0
+AnchorPoint: "top" 316 931 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -71,5 +73,4 @@ SplineSet
  483.077 680.803 483.762 690.657 484.999 702 c 257
  470.999 733 406.999 763 371.999 763 c 256
 EndSplineSet
-Validated: 524321
 EndChar

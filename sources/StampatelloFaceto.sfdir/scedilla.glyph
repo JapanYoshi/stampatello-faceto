@@ -1,5 +1,5 @@
 StartChar: scedilla
-Encoding: 287 351 287
+Encoding: 351 351 287
 GlifName: scedilla
 Width: 502
 VWidth: 0
@@ -45,6 +45,6 @@ SplineSet
  273 -286 259 -292 248 -292 c 256
  242 -292 237 -290 234 -286 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "loclRomanian subtable" uni0219
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni040C
-Encoding: 640 1036 640
+Encoding: 1036 1036 640
 GlifName: uni040C_
 Width: 682
 VWidth: 0
@@ -50,5 +50,6 @@ SplineSet
  63.7773 568 64 604.333 64 662 c 256
  64 712 76 829 81 870 c 256
 EndSplineSet
-Validated: 524321
+Validated: 33
+Kerns2: 16 -60 "kernlookup0 subtable" 1120 -90 "kernlookup0 subtable" 10 -30 "kernlookup0 subtable" 725 -80 "kernlookup0 subtable" 724 -90 "kernlookup0 subtable" 719 -50 "kernlookup0 subtable" 715 50 "kernlookup0 subtable" 710 -80 "kernlookup0 subtable" 702 -80 "kernlookup0 subtable" 699 -90 "kernlookup0 subtable" 697 -22 "kernlookup0 subtable" 694 -100 "kernlookup0 subtable" 693 -20 "kernlookup0 subtable" 690 -20 "kernlookup0 subtable" 670 -47 "kernlookup0 subtable" 667 -35 "kernlookup0 subtable" 664 -113 "kernlookup0 subtable" 662 -50 "kernlookup0 subtable" 650 -40 "kernlookup0 subtable" 632 -30 "kernlookup0 subtable"
 EndChar

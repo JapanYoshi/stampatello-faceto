@@ -1,5 +1,5 @@
 StartChar: one
-Encoding: 20 49 20
+Encoding: 49 49 20
 GlifName: one
 Width: 343
 VWidth: 0
@@ -30,6 +30,6 @@ SplineSet
  174 500 190 514 196 528 c 256
  206 552 210 560 230 560 c 256
 EndSplineSet
-Validated: 524289
-Substitution2: "lnumLiningFigureslookup8 subtable" one.lnum
+Validated: 1
+Substitution2: "lnumLiningFigureslookup8 subtable" uniE076
 EndChar

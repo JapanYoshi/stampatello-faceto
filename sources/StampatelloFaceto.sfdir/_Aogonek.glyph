@@ -1,9 +1,10 @@
 StartChar: Aogonek
-Encoding: 196 260 196
+Encoding: 260 260 196
 GlifName: A_ogonek
 Width: 838
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "top" 440 973 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -66,5 +67,4 @@ SplineSet
  311 344 328 341 345 341 c 256
  431 341 516 346 601 355 c 257
 EndSplineSet
-Validated: 524289
 EndChar

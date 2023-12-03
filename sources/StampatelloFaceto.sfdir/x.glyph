@@ -1,9 +1,11 @@
 StartChar: x
-Encoding: 91 120 91
+Encoding: 120 120 91
 GlifName: x
 Width: 554
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 290 41 basechar 0
+AnchorPoint: "top" 282 595 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -35,6 +37,5 @@ SplineSet
  530 490 526 484 518 478 c 256
  486 446 486 442 468 422 c 256
 EndSplineSet
-Validated: 1
 Kerns2: 12 -76 "kernlookup0 subtable" 34 -39 "kernlookup0 subtable" 40 -16 "kernlookup0 subtable" 41 -17 "kernlookup0 subtable" 44 -59 "kernlookup0 subtable" 45 -22 "kernlookup0 subtable" 55 -116 "kernlookup0 subtable" 57 -28 "kernlookup0 subtable" 58 -19 "kernlookup0 subtable" 59 -71 "kernlookup0 subtable" 60 -58 "kernlookup0 subtable" 61 -5 "kernlookup0 subtable" 64 -93 "kernlookup0 subtable" 70 -26 "kernlookup0 subtable" 84 -15 "kernlookup0 subtable" 96 -95 "kernlookup0 subtable" 388 -10 "kernlookup0 subtable" 404 -30 "kernlookup0 subtable"
 EndChar

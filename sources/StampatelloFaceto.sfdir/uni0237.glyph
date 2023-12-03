@@ -1,9 +1,10 @@
 StartChar: uni0237
-Encoding: 386 567 386
+Encoding: 567 567 386
 GlifName: uni0237
 Width: 234
 VWidth: 0
 Flags: W
+AnchorPoint: "top" 112 613 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -23,5 +24,4 @@ SplineSet
  118 -46 98 44 92 82 c 256
  82 142 73 363 73 462 c 256
 EndSplineSet
-Validated: 1
 EndChar

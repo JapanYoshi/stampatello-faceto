@@ -1,9 +1,11 @@
 StartChar: N
-Encoding: 49 78 49
+Encoding: 78 78 49
 GlifName: N_
 Width: 772
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 400 41 basechar 0
+AnchorPoint: "top" 396 913 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -52,6 +54,5 @@ SplineSet
  550 -12 422 146 364 262 c 256
  360 270 292 398 242 468 c 256
 EndSplineSet
-Validated: 524289
 Kerns2: 12 -26 "kernlookup0 subtable" 44 -19 "kernlookup0 subtable"
 EndChar

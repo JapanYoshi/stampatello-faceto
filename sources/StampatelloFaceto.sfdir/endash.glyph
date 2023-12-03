@@ -1,5 +1,5 @@
 StartChar: endash
-Encoding: 1057 8211 1057
+Encoding: 8211 8211 1057
 GlifName: endash
 Width: 618
 VWidth: 0
@@ -28,5 +28,5 @@ SplineSet
  163 264 137 252 100 252 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "Casesensitiveforms subtable" endash.case
+Substitution2: "Casesensitiveforms subtable" uniE011
 EndChar

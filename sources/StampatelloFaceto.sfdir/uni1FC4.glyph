@@ -1,5 +1,5 @@
 StartChar: uni1FC4
-Encoding: 1002 8132 1002
+Encoding: 8132 8132 1002
 GlifName: uni1F_C_4
 Width: 540
 VWidth: 0
@@ -66,5 +66,5 @@ SplineSet
  72 154 64 255 64 301 c 256
  64 322 66 344 66 381 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

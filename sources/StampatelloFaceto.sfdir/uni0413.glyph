@@ -1,43 +1,11 @@
 StartChar: uni0413
-Encoding: 647 1043 647
+Encoding: 1043 1043 647
 GlifName: uni0413
-Width: 579
+Width: 606
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-SplineSet
-66 878 m 256
- 87 904 141 911.001 174 911.001 c 256
- 202 911.001 230 907.001 258 904.001 c 256
- 300 900.001 368 900.001 424 900.001 c 256
- 448 900.001 484 908.001 512 908.001 c 256
- 534 908.001 552 903.001 556 886.001 c 256
- 556.75 883.001 557.094 879.938 557.094 876.868 c 256
- 557.094 855.376 540.25 833.501 528 830.001 c 256
- 506 823.001 472 822.001 437 822.001 c 258
- 386 822.001 l 257
- 354 822.001 l 257
- 214 822.001 l 258
- 186 822.001 160 821.001 136 820.001 c 257
- 140 708.001 144 596.001 144 486.001 c 256
- 144 430.001 148 374.001 150 318.001 c 256
- 152 264.001 150 208.001 158 156.001 c 256
- 161.504 126.214 183.43 101.032 183.43 72.3857 c 256
- 183.43 68.334 182.991 64.2129 182 60 c 256
- 176 40 160 14 140 10 c 256
- 138 10 137 9 135 9 c 256
- 122 9 111 25 102 36 c 256
- 90 50 90 72 86 90 c 256
- 72 158 76 232 70 306 c 256
- 66 348 58 390 56 434 c 256
- 55.5996 442 55.4395 450 55.4395 458 c 256
- 55.4395 490 57.999 522 57.999 554 c 256
- 57.999 614 53.5908 674 53.5908 734 c 256
- 53.5908 744 53.7129 754 53.999 764 c 256
- 54.1094 766.42 54.1592 768.803 54.1592 771.152 c 256
- 54.1592 792.353 50.1309 810.843 50.1309 828.821 c 256
- 50.1309 845.091 53.4297 860.94 66 878 c 256
-EndSplineSet
-Validated: 524289
+Refer: 546 915 N 1 0 0 1 0 0 2
+Kerns2: 1120 -130 "kernlookup0 subtable" 16 -150 "kernlookup0 subtable" 729 -253 "kernlookup0 subtable" 725 -90 "kernlookup0 subtable" 724 -70 "kernlookup0 subtable" 723 -230 "kernlookup0 subtable" 722 -80 "kernlookup0 subtable" 721 -45 "kernlookup0 subtable" 720 -100 "kernlookup0 subtable" 719 -40 "kernlookup0 subtable" 718 -240 "kernlookup0 subtable" 717 -301 "kernlookup0 subtable" 715 51 "kernlookup0 subtable" 713 -250 "kernlookup0 subtable" 712 -230 "kernlookup0 subtable" 711 -130 "kernlookup0 subtable" 710 -40 "kernlookup0 subtable" 708 -31 "kernlookup0 subtable" 707 -177 "kernlookup0 subtable" 706 -194 "kernlookup0 subtable" 705 -220 "kernlookup0 subtable" 704 -230 "kernlookup0 subtable" 703 -210 "kernlookup0 subtable" 702 -190 "kernlookup0 subtable" 701 -190 "kernlookup0 subtable" 700 -240 "kernlookup0 subtable" 699 -230 "kernlookup0 subtable" 698 -230 "kernlookup0 subtable" 697 -260 "kernlookup0 subtable" 696 -192 "kernlookup0 subtable" 695 -248 "kernlookup0 subtable" 694 -290 "kernlookup0 subtable" 693 -258 "kernlookup0 subtable" 692 -230 "kernlookup0 subtable" 691 -220 "kernlookup0 subtable" 690 -210 "kernlookup0 subtable" 689 -210 "kernlookup0 subtable" 688 -240 "kernlookup0 subtable" 687 -250 "kernlookup0 subtable" 686 -220 "kernlookup0 subtable" 685 -80 "kernlookup0 subtable" 684 -220 "kernlookup0 subtable" 683 -210 "kernlookup0 subtable" 682 -220 "kernlookup0 subtable" 681 -220 "kernlookup0 subtable" 680 -270 "kernlookup0 subtable" 679 -220 "kernlookup0 subtable" 678 -270 "kernlookup0 subtable" 677 -159 "kernlookup0 subtable" 676 -225 "kernlookup0 subtable" 664 -120 "kernlookup0 subtable" 661 -90 "kernlookup0 subtable" 658 -34 "kernlookup0 subtable" 655 -116 "kernlookup0 subtable" 648 -183 "kernlookup0 subtable" 644 -151 "kernlookup0 subtable" 637 -240 "kernlookup0 subtable" 636 -40 "kernlookup0 subtable"
 EndChar

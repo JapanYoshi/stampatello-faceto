@@ -1,5 +1,5 @@
 StartChar: hyphen
-Encoding: 16 45 16
+Encoding: 45 45 16
 GlifName: hyphen
 Width: 410
 VWidth: 0
@@ -19,5 +19,6 @@ SplineSet
  372 292 404 298 404 270 c 256
 EndSplineSet
 Validated: 1
-Kerns2: 12 -101 "kernlookup0 subtable" 34 -48 "kernlookup0 subtable" 44 -45 "kernlookup0 subtable" 54 -34 "kernlookup0 subtable" 55 -175 "kernlookup0 subtable" 57 -105 "kernlookup0 subtable" 58 -22 "kernlookup0 subtable" 59 -87 "kernlookup0 subtable" 60 -149 "kernlookup0 subtable" 61 -65 "kernlookup0 subtable" 64 -100 "kernlookup0 subtable" 73 -38 "kernlookup0 subtable" 87 -59 "kernlookup0 subtable" 91 -25 "kernlookup0 subtable" 93 -22 "kernlookup0 subtable" 96 -73 "kernlookup0 subtable"
+Kerns2: 662 -140 "kernlookup0 subtable" 652 32 "kernlookup0 subtable" 650 -99 "kernlookup0 subtable" 639 -50 "kernlookup0 subtable" 637 -47 "kernlookup0 subtable" 630 -57 "kernlookup0 subtable" 12 -101 "kernlookup0 subtable" 34 -48 "kernlookup0 subtable" 44 -45 "kernlookup0 subtable" 54 -34 "kernlookup0 subtable" 55 -175 "kernlookup0 subtable" 57 -105 "kernlookup0 subtable" 58 -22 "kernlookup0 subtable" 59 -87 "kernlookup0 subtable" 60 -149 "kernlookup0 subtable" 61 -65 "kernlookup0 subtable" 64 -100 "kernlookup0 subtable" 73 -38 "kernlookup0 subtable" 87 -59 "kernlookup0 subtable" 91 -25 "kernlookup0 subtable" 93 -22 "kernlookup0 subtable" 96 -73 "kernlookup0 subtable"
+Substitution2: "Casesensitiveforms subtable" uniE00F
 EndChar

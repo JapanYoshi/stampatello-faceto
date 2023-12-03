@@ -1,9 +1,10 @@
 StartChar: hookabovecomb
-Encoding: 518 777 518
+Encoding: 777 777 518
 GlifName: hookabovecomb
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "top" -254 880 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -28,5 +29,4 @@ SplineSet
  -300 996 -314 1010 -314 1038 c 256
  -314 1063 -288 1073 -266 1073 c 256
 EndSplineSet
-Validated: 1
 EndChar

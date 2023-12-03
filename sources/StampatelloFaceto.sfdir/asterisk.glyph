@@ -1,5 +1,5 @@
 StartChar: asterisk
-Encoding: 13 42 13
+Encoding: 42 42 13
 GlifName: asterisk
 Width: 460
 VWidth: 0
@@ -41,5 +41,5 @@ SplineSet
  120 736 96 744 82 748 c 256
  40 760 20 784 20 806 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

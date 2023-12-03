@@ -1,5 +1,5 @@
 StartChar: yen
-Encoding: 102 165 102
+Encoding: 165 165 102
 GlifName: yen
 Width: 778
 VWidth: 0
@@ -72,5 +72,5 @@ SplineSet
  594 282 572 282 548 280 c 257
  542 224 544 172 534 120 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

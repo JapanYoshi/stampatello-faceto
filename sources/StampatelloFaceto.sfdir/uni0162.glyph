@@ -1,5 +1,5 @@
 StartChar: uni0162
-Encoding: 290 354 290
+Encoding: 354 354 290
 GlifName: uni0162
 Width: 804
 VWidth: 0
@@ -46,6 +46,6 @@ SplineSet
  580 -218 526 -268 472 -308 c 256
  425 -341 384 -370 324 -370 c 256
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "loclRomanian subtable" uni021A
 EndChar

@@ -1,5 +1,5 @@
 StartChar: psi
-Encoding: 598 968 598
+Encoding: 968 968 598
 GlifName: psi
 Width: 622
 VWidth: 0
@@ -48,5 +48,5 @@ SplineSet
  332.896 836.225 332.772 832.556 332.772 828.954 c 256
  332.772 826.597 332.825 824.268 333 822 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

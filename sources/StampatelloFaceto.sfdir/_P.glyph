@@ -1,9 +1,11 @@
 StartChar: P
-Encoding: 51 80 51
+Encoding: 80 80 51
 GlifName: P_
-Width: 606
+Width: 622
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "bottom" 179 41 basechar 0
+AnchorPoint: "top" 294 927 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -44,6 +46,5 @@ SplineSet
  574 518 546 489 524 461 c 256
  484 408 372 341 314 319 c 256
 EndSplineSet
-Validated: 1
 Kerns2: 5 -19 "kernlookup0 subtable" 12 -48 "kernlookup0 subtable" 36 -66 "kernlookup0 subtable" 40 -30 "kernlookup0 subtable" 42 -15 "kernlookup0 subtable" 44 -46 "kernlookup0 subtable" 45 -89 "kernlookup0 subtable" 55 -94 "kernlookup0 subtable" 57 -35 "kernlookup0 subtable" 58 -23 "kernlookup0 subtable" 59 -87 "kernlookup0 subtable" 60 -54 "kernlookup0 subtable" 61 -77 "kernlookup0 subtable" 64 -106 "kernlookup0 subtable" 68 -15 "kernlookup0 subtable" 70 -35 "kernlookup0 subtable" 71 -56 "kernlookup0 subtable" 72 -29 "kernlookup0 subtable" 73 -18 "kernlookup0 subtable" 74 -57 "kernlookup0 subtable" 76 -23 "kernlookup0 subtable" 82 -26 "kernlookup0 subtable" 84 -35 "kernlookup0 subtable" 86 -57 "kernlookup0 subtable" 94 -11 "kernlookup0 subtable" 96 -64 "kernlookup0 subtable" 388 -50 "kernlookup0 subtable" 404 -70 "kernlookup0 subtable"
 EndChar

@@ -1,5 +1,5 @@
 StartChar: eng
-Encoding: 267 331 267
+Encoding: 331 331 267
 GlifName: eng
 Width: 594
 VWidth: 0
@@ -50,5 +50,5 @@ SplineSet
  371 -324 366 -324 362 -324 c 256
  347 -324 332 -322 317 -317 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

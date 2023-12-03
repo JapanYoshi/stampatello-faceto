@@ -1,5 +1,5 @@
 StartChar: uni1F90
-Encoding: 951 8080 951
+Encoding: 8080 8080 951
 GlifName: uni1F_90
 Width: 540
 VWidth: 0
@@ -68,5 +68,5 @@ SplineSet
  72 154 64 255 64 301 c 256
  64 322 66 344 66 381 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

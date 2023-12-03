@@ -1,5 +1,5 @@
 StartChar: logicalnot
-Encoding: 108 172 108
+Encoding: 172 172 108
 GlifName: logicalnot
 Width: 619
 VWidth: 0
@@ -26,5 +26,5 @@ SplineSet
  64 266 37 275 37 305 c 256
  37 335 66 343 112 344 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

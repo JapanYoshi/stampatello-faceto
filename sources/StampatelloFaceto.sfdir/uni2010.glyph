@@ -1,5 +1,5 @@
 StartChar: uni2010
-Encoding: 1054 8208 1054
+Encoding: 8208 8208 1054
 GlifName: uni2010
 Width: 352
 VWidth: 0
@@ -20,5 +20,5 @@ SplineSet
  50 340 56 343 72 351 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "Casesensitiveforms subtable" uni2010.case
+Substitution2: "Casesensitiveforms subtable" uniE010
 EndChar

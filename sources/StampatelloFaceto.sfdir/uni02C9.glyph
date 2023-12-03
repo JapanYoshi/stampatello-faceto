@@ -1,5 +1,5 @@
 StartChar: uni02C9
-Encoding: 508 713 508
+Encoding: 713 713 508
 GlifName: uni02C_9
 Width: 468
 VWidth: 0
@@ -25,5 +25,5 @@ SplineSet
  39.7422 836.758 48.8711 851.046 58 862 c 256
  64 868 70 872 78 872 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

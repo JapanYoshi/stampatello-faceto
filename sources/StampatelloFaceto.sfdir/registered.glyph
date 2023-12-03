@@ -1,5 +1,5 @@
 StartChar: registered
-Encoding: 110 174 110
+Encoding: 174 174 110
 GlifName: registered
 Width: 944
 VWidth: 0
@@ -78,5 +78,5 @@ SplineSet
  275.426 361.98 278.505 395.821 284 420 c 257
  284 420 268 570 268 618 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

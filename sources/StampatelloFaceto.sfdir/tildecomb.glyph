@@ -1,9 +1,10 @@
 StartChar: tildecomb
-Encoding: 513 771 513
+Encoding: 771 771 513
 GlifName: tildecomb
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "top" -300 880 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21,5 +22,4 @@ SplineSet
  -546 922 -548 928 -548 932 c 256
  -548 947 -436 1060 -417 1071 c 256
 EndSplineSet
-Validated: 1
 EndChar

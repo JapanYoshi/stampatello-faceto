@@ -1,9 +1,9 @@
 StartChar: Ccedilla
-Encoding: 135 199 135
+Encoding: 199 199 135
 GlifName: C_cedilla
-Width: 720
+Width: 686
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -48,5 +48,4 @@ SplineSet
  305 -8 235 34 185 81 c 256
  157 110 69 260 56 315 c 256
 EndSplineSet
-Validated: 524289
 EndChar

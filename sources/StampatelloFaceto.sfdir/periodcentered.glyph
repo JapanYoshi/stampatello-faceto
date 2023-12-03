@@ -1,5 +1,5 @@
 StartChar: periodcentered
-Encoding: 119 183 119
+Encoding: 183 183 119
 GlifName: periodcentered
 Width: 192
 VWidth: 0
@@ -16,5 +16,6 @@ SplineSet
  42 256 58 250 58 280 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "Casesensitiveforms subtable" periodcentered.case
+Kerns2: 1276 -33 "kernlookup0 subtable" 1273 -23 "kernlookup0 subtable" 1269 -10 "kernlookup0 subtable" 1267 -45 "kernlookup0 subtable" 1266 -19 "kernlookup0 subtable" 1256 -30 "kernlookup0 subtable" 1255 -40 "kernlookup0 subtable" 1264 -68 "kernlookup0 subtable" 1253 -10 "kernlookup0 subtable" 1238 -37 "kernlookup0 subtable" 1237 -180 "kernlookup0 subtable" 1232 -3 "kernlookup0 subtable" 1236 -31 "kernlookup0 subtable" 1234 -19 "kernlookup0 subtable" 1230 -92 "kernlookup0 subtable" 1229 -120 "kernlookup0 subtable"
+Substitution2: "Casesensitiveforms subtable" uniE01A
 EndChar

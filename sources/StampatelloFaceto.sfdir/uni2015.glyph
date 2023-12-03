@@ -1,5 +1,5 @@
 StartChar: uni2015
-Encoding: 1059 8213 1059
+Encoding: 8213 8213 1059
 GlifName: uni2015
 Width: 980
 VWidth: 0
@@ -29,5 +29,5 @@ SplineSet
  130 322 164 326 204 332 c 256
 EndSplineSet
 Validated: 1
-Substitution2: "Casesensitiveforms subtable" uni2015.case
+Substitution2: "Casesensitiveforms subtable" uniE013
 EndChar

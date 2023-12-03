@@ -1,5 +1,5 @@
 StartChar: comma
-Encoding: 15 44 15
+Encoding: 44 44 15
 GlifName: comma
 Width: 182
 VWidth: 0
@@ -17,5 +17,5 @@ SplineSet
  68 99 86 108 116 108 c 256
 EndSplineSet
 Validated: 1
-Kerns2: 12 -26 "kernlookup0 subtable" 34 -92 "kernlookup0 subtable" 38 -36 "kernlookup0 subtable" 39 -46 "kernlookup0 subtable" 42 -46 "kernlookup0 subtable" 45 -18 "kernlookup0 subtable" 50 -64 "kernlookup0 subtable" 51 -17 "kernlookup0 subtable" 52 -68 "kernlookup0 subtable" 55 -105 "kernlookup0 subtable" 56 -80 "kernlookup0 subtable" 57 -130 "kernlookup0 subtable" 58 -84 "kernlookup0 subtable" 59 -61 "kernlookup0 subtable" 60 -65 "kernlookup0 subtable" 64 -44 "kernlookup0 subtable" 73 -108 "kernlookup0 subtable" 87 -91 "kernlookup0 subtable" 89 -62 "kernlookup0 subtable" 94 -98 "kernlookup0 subtable" 96 -47 "kernlookup0 subtable"
+Kerns2: 662 -74 "kernlookup0 subtable" 658 -45 "kernlookup0 subtable" 639 -70 "kernlookup0 subtable" 12 -26 "kernlookup0 subtable" 34 -92 "kernlookup0 subtable" 38 -36 "kernlookup0 subtable" 39 -46 "kernlookup0 subtable" 42 -46 "kernlookup0 subtable" 45 -18 "kernlookup0 subtable" 50 -64 "kernlookup0 subtable" 51 -17 "kernlookup0 subtable" 52 -68 "kernlookup0 subtable" 55 -105 "kernlookup0 subtable" 56 -80 "kernlookup0 subtable" 57 -130 "kernlookup0 subtable" 58 -84 "kernlookup0 subtable" 59 -61 "kernlookup0 subtable" 60 -65 "kernlookup0 subtable" 64 -44 "kernlookup0 subtable" 73 -108 "kernlookup0 subtable" 87 -91 "kernlookup0 subtable" 89 -62 "kernlookup0 subtable" 94 -98 "kernlookup0 subtable" 96 -47 "kernlookup0 subtable"
 EndChar

@@ -1,5 +1,5 @@
 StartChar: parenleft
-Encoding: 11 40 11
+Encoding: 40 40 11
 GlifName: parenleft
 Width: 396
 VWidth: 0
@@ -24,5 +24,5 @@ SplineSet
 EndSplineSet
 Validated: 1
 Kerns2: 36 -74 "kernlookup0 subtable" 38 -85 "kernlookup0 subtable" 42 -135 "kernlookup0 subtable" 45 -63 "kernlookup0 subtable" 50 -79 "kernlookup0 subtable" 52 -57 "kernlookup0 subtable" 54 -52 "kernlookup0 subtable" 68 -84 "kernlookup0 subtable" 70 -111 "kernlookup0 subtable" 71 -112 "kernlookup0 subtable" 72 -97 "kernlookup0 subtable" 73 -116 "kernlookup0 subtable" 74 -97 "kernlookup0 subtable" 77 102 "kernlookup0 subtable" 80 -55 "kernlookup0 subtable" 81 -86 "kernlookup0 subtable" 82 -74 "kernlookup0 subtable" 83 -45 "kernlookup0 subtable" 84 -126 "kernlookup0 subtable" 85 -66 "kernlookup0 subtable" 86 -75 "kernlookup0 subtable" 87 -83 "kernlookup0 subtable" 88 -64 "kernlookup0 subtable" 89 -69 "kernlookup0 subtable" 90 -77 "kernlookup0 subtable" 91 -31 "kernlookup0 subtable" 92 -75 "kernlookup0 subtable" 93 -89 "kernlookup0 subtable" 94 -141 "kernlookup0 subtable"
-Substitution2: "Casesensitiveforms subtable" parenleft.case
+Substitution2: "Casesensitiveforms subtable" uniE014
 EndChar
