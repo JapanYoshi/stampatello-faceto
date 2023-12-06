@@ -1,17 +1,5 @@
 # Stampatello Faceto
 
-[![][Fontbakery]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][Universal]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
-
 Stampatello Faceto is an insanely multilingual handwriting font that supports a wide array of Latin, Greek, and Cyrillic characters.
 
 ![Sample Image](documentation/image1.png)
@@ -26,6 +14,11 @@ UkiyoMoji Fonts is a label under which I (Haley Wakamatsu) release fonts, most o
 Since this repository template does not support FontForge, fonts are built manually.
 
 ## Changelog
+
+**05 Dec 2023. Version 0.02**
+- MINOR Added some kerning.
+- MINOR Added certain Latin letters: capital schwa, capital turned E, capital ezh.
+- MINOR Added certain Cyrillic letters: capital and lowercase barred O, Cyrillic equivalents of the Latin additions, and lots of letters plus one diacritic.
 
 **10 Nov 2023. Version 0.01**
 - MAJOR Initial upload.
