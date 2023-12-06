@@ -8,5 +8,6 @@ LayerCount: 2
 Fore
 Refer: 512 770 N 1 0 0 1 562 -255 2
 Refer: 74 103 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "cv02CharacterVariants02lookup6 subtable" uniE06F
 EndChar

@@ -55,5 +55,6 @@ SplineSet
  1002.99902344 341.999023438 1035 419.999023438 1035 583.999023438 c 256
  1035 641.999023438 1031 705.999023438 1000.99902344 753.999023438 c 256
 EndSplineSet
+Validated: 524321
 Kerns2: 655 -45 "kernlookup0 subtable" 650 -21 "kernlookup0 subtable" 648 -68 "kernlookup0 subtable" 644 -30 "kernlookup0 subtable" 637 -95 "kernlookup0 subtable" 636 -30 "kernlookup0 subtable"
 EndChar

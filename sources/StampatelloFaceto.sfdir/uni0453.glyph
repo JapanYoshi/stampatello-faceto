@@ -42,7 +42,7 @@ SplineSet
  451.993 533.08 438.265 504.611 430 498 c 256
  412 484 370 486 348 482 c 256
 EndSplineSet
-Validated: 33
+Validated: 524321
 Kerns2: 655 -50 "kernlookup0 subtable" 650 -17 "kernlookup0 subtable" 648 -112 "kernlookup0 subtable" 644 -62 "kernlookup0 subtable" 639 -20 "kernlookup0 subtable" 637 -152 "kernlookup0 subtable" 636 -90 "kernlookup0 subtable" 634 -30 "kernlookup0 subtable"
 Substitution2: "loclBulgarian subtable" uniE00E
 EndChar

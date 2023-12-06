@@ -7,5 +7,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 51 80 N 1 0 0 1 0 0 3
+Validated: 1
 Kerns2: 16 -48 "kernlookup0 subtable" 10 -8 "kernlookup0 subtable" 34 -3 "kernlookup0 subtable" 15 -70 "kernlookup0 subtable" 725 -15 "kernlookup0 subtable" 724 -14 "kernlookup0 subtable" 717 -162 "kernlookup0 subtable" 715 43 "kernlookup0 subtable" 712 -25 "kernlookup0 subtable" 707 -15 "kernlookup0 subtable" 696 -23 "kernlookup0 subtable" 693 -22 "kernlookup0 subtable" 687 -140 "kernlookup0 subtable" 680 -139 "kernlookup0 subtable" 677 -50 "kernlookup0 subtable" 670 -120 "kernlookup0 subtable" 662 -80 "kernlookup0 subtable" 655 -46 "kernlookup0 subtable" 651 -24 "kernlookup0 subtable" 650 -38 "kernlookup0 subtable" 648 -93 "kernlookup0 subtable" 644 -49 "kernlookup0 subtable" 639 -75 "kernlookup0 subtable" 637 -161 "kernlookup0 subtable" 636 -60 "kernlookup0 subtable" 635 -50 "kernlookup0 subtable" 634 -50 "kernlookup0 subtable" 630 -38 "kernlookup0 subtable"
 EndChar

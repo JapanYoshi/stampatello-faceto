@@ -7,6 +7,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 564 934 N 1 0 0 1 0 0 2
+Validated: 1
 Kerns2: 662 -88 "kernlookup0 subtable" 655 -55 "kernlookup0 subtable" 652 3 "kernlookup0 subtable" 651 -32 "kernlookup0 subtable" 650 -75 "kernlookup0 subtable" 648 -100 "kernlookup0 subtable" 644 -48 "kernlookup0 subtable" 639 -75 "kernlookup0 subtable" 637 -123 "kernlookup0 subtable" 636 -40 "kernlookup0 subtable" 635 -100 "kernlookup0 subtable" 634 -80 "kernlookup0 subtable" 630 -57 "kernlookup0 subtable"
 Substitution2: "loclBulgarian subtable" uniE001
 EndChar

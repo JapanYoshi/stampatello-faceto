@@ -42,5 +42,6 @@ SplineSet
  527.612304688 716.272460938 497.96484375 655.185546875 466 608 c 256
  439 569 399 519 355 495 c 257
 EndSplineSet
+Validated: 524289
 Kerns2: 725 -42 "kernlookup0 subtable" 724 -19 "kernlookup0 subtable" 719 -17 "kernlookup0 subtable" 717 -54 "kernlookup0 subtable" 715 67 "kernlookup0 subtable" 710 -33 "kernlookup0 subtable" 702 -19 "kernlookup0 subtable" 699 -11 "kernlookup0 subtable" 697 -17 "kernlookup0 subtable" 694 -49 "kernlookup0 subtable" 687 -42 "kernlookup0 subtable" 682 -35 "kernlookup0 subtable" 680 -50 "kernlookup0 subtable" 665 -26 "kernlookup0 subtable" 664 -26 "kernlookup0 subtable" 658 -9 "kernlookup0 subtable" 655 -9 "kernlookup0 subtable" 651 -12 "kernlookup0 subtable" 651 -1 "kernlookup0 subtable" 650 -40 "kernlookup0 subtable" 648 -20 "kernlookup0 subtable" 637 -24 "kernlookup0 subtable"
 EndChar

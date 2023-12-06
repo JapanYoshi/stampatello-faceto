@@ -25,5 +25,6 @@ SplineSet
  309 849.470588235 308.996539792 851.826989619 308.996539792 854.077345817 c 0
  308.996539792 890.083044983 309.882352941 898.941176471 340 914 c 0
 EndSplineSet
+Validated: 524289
 Kerns2: 17 -29 "kernlookup0 subtable" 1273 -35 "kernlookup0 subtable" 1267 -27 "kernlookup0 subtable" 1247 -212 "kernlookup0 subtable"
 EndChar

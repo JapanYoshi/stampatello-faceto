@@ -44,6 +44,6 @@ SplineSet
  67 510 l 258
  67 520 63 529 67 539 c 256
 EndSplineSet
-Validated: 1
+Validated: 524289
 Kerns2: 662 -222 "kernlookup0 subtable" 659 -44 "kernlookup0 subtable" 658 -61 "kernlookup0 subtable" 657 -40 "kernlookup0 subtable" 654 -40 "kernlookup0 subtable" 653 -58 "kernlookup0 subtable" 652 -62 "kernlookup0 subtable" 651 -22 "kernlookup0 subtable" 650 -100 "kernlookup0 subtable" 645 -19 "kernlookup0 subtable" 642 -30 "kernlookup0 subtable" 641 -50 "kernlookup0 subtable" 639 -100 "kernlookup0 subtable" 638 -30 "kernlookup0 subtable" 630 -95 "kernlookup0 subtable"
 EndChar

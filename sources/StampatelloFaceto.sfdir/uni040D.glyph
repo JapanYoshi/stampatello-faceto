@@ -8,5 +8,6 @@ LayerCount: 2
 Fore
 Refer: 510 768 S 1 0 0 1 668.382 95 2
 Refer: 652 1048 N 1 0 0 1 0 0 3
+Validated: 1
 Kerns2: 642 -30 "kernlookup0 subtable" 1120 -63 "kernlookup0 subtable" 10 -75 "kernlookup0 subtable" 725 -88 "kernlookup0 subtable" 724 -126 "kernlookup0 subtable" 719 -75 "kernlookup0 subtable" 710 -101 "kernlookup0 subtable" 705 -50 "kernlookup0 subtable" 702 -63 "kernlookup0 subtable" 699 -75 "kernlookup0 subtable" 694 -88 "kernlookup0 subtable" 690 -24 "kernlookup0 subtable" 683 -30 "kernlookup0 subtable" 677 -40 "kernlookup0 subtable" 673 -50 "kernlookup0 subtable" 670 -75 "kernlookup0 subtable" 667 -52 "kernlookup0 subtable" 665 -40 "kernlookup0 subtable" 664 -70 "kernlookup0 subtable" 663 -50 "kernlookup0 subtable" 662 -80 "kernlookup0 subtable" 660 -30 "kernlookup0 subtable" 653 -50 "kernlookup0 subtable" 652 -31 "kernlookup0 subtable" 650 -63 "kernlookup0 subtable" 639 -101 "kernlookup0 subtable" 634 -38 "kernlookup0 subtable" 632 -50 "kernlookup0 subtable" 631 -30 "kernlookup0 subtable" 630 -66 "kernlookup0 subtable" 629 -36 "kernlookup0 subtable"
 EndChar

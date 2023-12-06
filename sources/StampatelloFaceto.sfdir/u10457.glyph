@@ -25,5 +25,6 @@ SplineSet
  194 769 267 838 307 885 c 0
  322 903 347 932 370 932 c 0
 EndSplineSet
+Validated: 1
 Kerns2: 1238 -12 "kernlookup0 subtable" 1276 -69 "kernlookup0 subtable" 1272 -55 "kernlookup0 subtable" 1270 -45 "kernlookup0 subtable" 1269 -15 "kernlookup0 subtable" 1258 -17 "kernlookup0 subtable" 1267 -90 "kernlookup0 subtable" 1256 -56 "kernlookup0 subtable" 1255 -100 "kernlookup0 subtable" 1264 -90 "kernlookup0 subtable" 1261 -12 "kernlookup0 subtable" 1260 -93 "kernlookup0 subtable" 1259 -23 "kernlookup0 subtable" 1248 -14 "kernlookup0 subtable" 1247 -165 "kernlookup0 subtable" 1237 -100 "kernlookup0 subtable" 1246 -111 "kernlookup0 subtable" 1236 -20 "kernlookup0 subtable" 1236 -1 "kernlookup0 subtable" 1235 -4 "kernlookup0 subtable" 1245 -37 "kernlookup0 subtable" 1244 -89 "kernlookup0 subtable" 1230 -170 "kernlookup0 subtable" 1229 -117 "kernlookup0 subtable"
 EndChar

@@ -40,6 +40,7 @@ SplineSet
  42 422 44 434 50 444 c 256
  92 508 138 538 224 548 c 256
 EndSplineSet
+Validated: 1
 Kerns2: 12 -98 "kernlookup0 subtable" 34 -50 "kernlookup0 subtable" 51 -15 "kernlookup0 subtable" 55 -193 "kernlookup0 subtable" 57 -74 "kernlookup0 subtable" 58 -52 "kernlookup0 subtable" 59 -57 "kernlookup0 subtable" 60 -116 "kernlookup0 subtable" 64 -161 "kernlookup0 subtable" 96 -113 "kernlookup0 subtable"
 Substitution2: "cv01CharacterVariants01lookup5 subtable" uniE037
 EndChar

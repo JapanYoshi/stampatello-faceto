@@ -58,7 +58,7 @@ SplineSet
  536 490.998 524 558.998 510 618.998 c 256
  500 658.998 444 824.998 436 824.998 c 256
 EndSplineSet
-Validated: 1
+Validated: 524289
 Kerns2: 651 -14 "kernlookup0 subtable" 649 -33 "kernlookup0 subtable" 1120 -40 "kernlookup0 subtable" 10 -50 "kernlookup0 subtable" 34 -110 "kernlookup0 subtable" 725 -105 "kernlookup0 subtable" 724 -150 "kernlookup0 subtable" 719 -54 "kernlookup0 subtable" 716 120 "kernlookup0 subtable" 710 -84 "kernlookup0 subtable" 702 -83 "kernlookup0 subtable" 699 -58 "kernlookup0 subtable" 697 -43 "kernlookup0 subtable" 695 -9 "kernlookup0 subtable" 694 -60 "kernlookup0 subtable" 673 -55 "kernlookup0 subtable" 670 -170 "kernlookup0 subtable" 667 -117 "kernlookup0 subtable" 665 -60 "kernlookup0 subtable" 664 -100 "kernlookup0 subtable" 662 -140 "kernlookup0 subtable" 658 -70 "kernlookup0 subtable" 653 -40 "kernlookup0 subtable" 652 -49 "kernlookup0 subtable" 650 -114 "kernlookup0 subtable" 645 -31 "kernlookup0 subtable" 642 -50 "kernlookup0 subtable" 639 -90 "kernlookup0 subtable" 638 -50 "kernlookup0 subtable" 632 -40 "kernlookup0 subtable" 631 -38 "kernlookup0 subtable" 630 -104 "kernlookup0 subtable" 629 -28 "kernlookup0 subtable"
 Substitution2: "cv02CharacterVariants02lookup6 subtable" D
 Substitution2: "loclBulgarian subtable" D

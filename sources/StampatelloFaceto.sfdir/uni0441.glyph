@@ -7,5 +7,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 70 99 N 1 0 0 1 0 0 2
+Validated: 1
 Kerns2: 662 -179 "kernlookup0 subtable" 650 -100 "kernlookup0 subtable" 639 -70 "kernlookup0 subtable" 630 -85 "kernlookup0 subtable"
 EndChar

@@ -47,7 +47,7 @@ SplineSet
  543.998 135.999 590.998 199.999 590.998 289.999 c 256
  590.998 351.999 574.998 385.999 551.998 430.999 c 256
 EndSplineSet
-Validated: 1
+Validated: 524289
 Kerns2: 662 -119 "kernlookup0 subtable" 650 -90 "kernlookup0 subtable" 635 -50 "kernlookup0 subtable" 634 -40 "kernlookup0 subtable" 630 -66 "kernlookup0 subtable"
 Substitution2: "loclBulgarian subtable" uniE007
 EndChar

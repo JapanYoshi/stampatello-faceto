@@ -3,6 +3,7 @@ Encoding: 57468 57468 1226
 GlifName: seven.lnum
 Width: 560
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
 LayerCount: 2
 Fore
@@ -39,5 +40,5 @@ SplineSet
  416 740.037 277.028 778 206 778 c 256
  139 778 90.0361 720 76 720 c 256
 EndSplineSet
-Validated: 37
+Validated: 524325
 EndChar

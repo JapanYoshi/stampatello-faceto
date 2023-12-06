@@ -8,5 +8,6 @@ LayerCount: 2
 Fore
 Refer: 512 770 N 1 0 0 1 394.885 -302 2
 Refer: 386 567 N 1 0 0 1 0 0 3
+Validated: 1
 Kerns2: 77 112 "kernlookup0 subtable" 245 216 "kernlookup0 subtable"
 EndChar

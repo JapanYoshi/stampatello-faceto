@@ -49,5 +49,6 @@ SplineSet
  579 482 581 496 583 552 c 256
  585 590 589 640 589 662 c 257
 EndSplineSet
+Validated: 524289
 Kerns2: 652 10 "kernlookup0 subtable"
 EndChar

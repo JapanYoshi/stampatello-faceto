@@ -7,5 +7,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 1050 8187 N 1 0 0 1 0 0 2
+Validated: 1
 Substitution2: "cv03CharacterVariants03lookup7 subtable" uniE022
 EndChar

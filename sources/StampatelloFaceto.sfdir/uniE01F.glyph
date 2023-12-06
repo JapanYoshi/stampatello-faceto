@@ -26,6 +26,7 @@ SplineSet
  59.9972299169 349.775623269 60.8947368421 384.578947368 95 449 c 0
  121 499 178 551 307 551 c 0
 EndSplineSet
+Validated: 524289
 Kerns2: 34 -99 "kernlookup0 subtable" 10 -63 "kernlookup0 subtable" 1276 -102 "kernlookup0 subtable" 1275 -23 "kernlookup0 subtable" 1270 -40 "kernlookup0 subtable" 1268 -40 "kernlookup0 subtable" 1258 -50 "kernlookup0 subtable" 1267 -61 "kernlookup0 subtable" 1256 -84 "kernlookup0 subtable" 1255 -160 "kernlookup0 subtable" 1264 -116 "kernlookup0 subtable" 1260 -124 "kernlookup0 subtable" 1259 -42 "kernlookup0 subtable" 1248 -40 "kernlookup0 subtable" 1247 -184 "kernlookup0 subtable" 1237 -220 "kernlookup0 subtable" 1246 -110 "kernlookup0 subtable" 1236 -40 "kernlookup0 subtable" 1233 -15 "kernlookup0 subtable" 1230 -230 "kernlookup0 subtable" 1229 -280 "kernlookup0 subtable"
 Ligature2: "ligaStandardLigatureslookup0 subtable" u10469 u1046F
 EndChar
