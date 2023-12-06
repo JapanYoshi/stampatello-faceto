@@ -1,6 +1,10 @@
 # Stampatello Faceto
 
-Stampatello Faceto is an insanely multilingual handwriting font that supports a wide array of Latin, Greek, and Cyrillic characters.
+Stampatello Faceto is a block-script handwriting font with massive multilingual support spanning Latin, Greek, and Cyrillic. It started as a project to create a modern handwriting font for Ancient Greek, but has since expanded to include a diverse character set including Vietnamese and Bulgarian Cyrillic. It is based on the handwriting of the designer using a felt-tip pen, with some creative liberties and beautification added in.
+
+The Cyrillic letterforms blend block-script versions with some cursive features.
+
+Stampatello Faceto is Italian for “facetious block script”.
 
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
